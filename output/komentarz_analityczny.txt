@@ -1,0 +1,58 @@
+
+======================================================================
+KOMENTARZ ANALITYCZNY
+======================================================================
+
+📊 ANALIZA SEZONOWOŚCI:
+----------------------------------------------------------------------
+
+Kraje o SILNEJ SEZONOWOŚCI (wysoki wskaźnik sezonowości):
+  • Croatia (Foreign country): wskaźnik 85.67
+    → Silny szczyt w miesiącach letnich, prawdopodobnie turystyka wypoczynkowa
+  • Croatia (Total): wskaźnik 51.90
+    → Silny szczyt w miesiącach letnich, prawdopodobnie turystyka wypoczynkowa
+  • Greece (Foreign country): wskaźnik 46.26
+    → Silny szczyt w miesiącach letnich, prawdopodobnie turystyka wypoczynkowa
+  • Montenegro (Foreign country): wskaźnik 21.36
+    → Silny szczyt w miesiącach letnich, prawdopodobnie turystyka wypoczynkowa
+  • Greece (Total): wskaźnik 19.51
+    → Silny szczyt w miesiącach letnich, prawdopodobnie turystyka wypoczynkowa
+
+Kraje o NISKIEJ SEZONOWOŚCI (stabilny ruch przez cały rok):
+  • Malta (Domestic country): wskaźnik 1.92
+    → Bardziej równomierny rozkład, prawdopodobnie turystyka biznesowa/stabilna
+  • Czechia (Foreign country): wskaźnik 1.93
+    → Bardziej równomierny rozkład, prawdopodobnie turystyka biznesowa/stabilna
+  • Kosovo* (Total): wskaźnik 1.93
+    → Bardziej równomierny rozkład, prawdopodobnie turystyka biznesowa/stabilna
+  • Serbia (Foreign country): wskaźnik 2.01
+    → Bardziej równomierny rozkład, prawdopodobnie turystyka biznesowa/stabilna
+  • Romania (Foreign country): wskaźnik 2.05
+    → Bardziej równomierny rozkład, prawdopodobnie turystyka biznesowa/stabilna
+
+
+📈 TOP DESTYNACJE TURYSTYCZNE:
+----------------------------------------------------------------------
+
+Domestic country:
+  28. European Union - 27 countries (from 2020): 11,247,440,055 noclegów
+  37. Germany: 2,480,820,941 noclegów
+  34. France: 2,334,251,311 noclegów
+  52. Italy: 1,589,396,736 noclegów
+  103. Spain: 1,267,023,025 noclegów
+
+Foreign country:
+  29. European Union - 27 countries (from 2020): 8,970,681,159 noclegów
+  104. Spain: 1,961,554,706 noclegów
+  53. Italy: 1,500,068,921 noclegów
+  35. France: 905,862,373 noclegów
+  113. Türkiye: 791,814,501 noclegów
+
+Total:
+  30. European Union - 27 countries (from 2020): 20,218,121,214 noclegów
+  36. France: 3,240,113,684 noclegów
+  105. Spain: 3,228,577,731 noclegów
+  54. Italy: 3,089,465,657 noclegów
+  39. Germany: 3,029,039,149 noclegów
+
+======================================================================

@@ -1,0 +1,1369 @@
+geo,month,c_resid,avg_nights,std_nights,month_name
+Albania,1,Domestic country,52970.28571428572,16131.542390756129,Styczeń
+Albania,1,Foreign country,44950.42857142857,25431.960639171746,Styczeń
+Albania,1,Total,97920.71428571429,39551.75613764108,Styczeń
+Albania,2,Domestic country,40858.57142857143,13236.637927323074,Luty
+Albania,2,Foreign country,47668.0,29684.08728595171,Luty
+Albania,2,Total,88526.57142857143,42044.9230381709,Luty
+Albania,3,Domestic country,43892.42857142857,23494.46927723731,Marzec
+Albania,3,Foreign country,58587.0,46186.580525804966,Marzec
+Albania,3,Total,102479.42857142857,69092.30846449106,Marzec
+Albania,4,Domestic country,57905.142857142855,37894.2437863966,Kwiecień
+Albania,4,Foreign country,102993.14285714286,90579.7190166919,Kwiecień
+Albania,4,Total,160898.2857142857,126882.52916472816,Kwiecień
+Albania,5,Domestic country,81725.85714285714,35329.55121154986,Maj
+Albania,5,Foreign country,171994.85714285713,126425.54148381643,Maj
+Albania,5,Total,253720.7142857143,160045.6991369593,Maj
+Albania,6,Domestic country,123403.0,54890.85758640895,Czerwiec
+Albania,6,Foreign country,288062.375,200703.4538146392,Czerwiec
+Albania,6,Total,411465.375,252005.1782205718,Czerwiec
+Albania,7,Domestic country,259500.875,107223.94890060375,Lipiec
+Albania,7,Foreign country,589615.5,240486.5846172238,Lipiec
+Albania,7,Total,849116.375,329581.25239024893,Lipiec
+Albania,8,Domestic country,334188.5714285714,126482.01705625605,Sierpień
+Albania,8,Foreign country,728739.0,281720.04245704634,Sierpień
+Albania,8,Total,1062927.5714285714,401954.489207778,Sierpień
+Albania,9,Domestic country,176489.875,103577.58162768275,Wrzesień
+Albania,9,Foreign country,399466.125,243595.10529942773,Wrzesień
+Albania,9,Total,575956.0,345414.24272148527,Wrzesień
+Albania,10,Domestic country,76290.5,43645.83132769629,Październik
+Albania,10,Foreign country,131451.375,97260.89026492098,Październik
+Albania,10,Total,207741.875,138132.56344482745,Październik
+Albania,11,Domestic country,62562.625,19750.831294892014,Listopad
+Albania,11,Foreign country,131096.0,84850.77879626876,Listopad
+Albania,11,Total,198121.42857142858,99530.0552678388,Listopad
+Albania,12,Domestic country,76156.0,50915.36939864033,Grudzień
+Albania,12,Foreign country,58851.333333333336,26762.350253045166,Grudzień
+Albania,12,Total,142565.0,57020.207779347846,Grudzień
+Austria,1,Domestic country,2263735.625,732676.714467465,Styczeń
+Austria,1,Foreign country,8102034.0,3475583.9420739072,Styczeń
+Austria,1,Total,10365769.625,4204410.474407116,Styczeń
+Austria,2,Domestic country,2760635.875,901131.0841353672,Luty
+Austria,2,Foreign country,9231736.75,3872212.19271656,Luty
+Austria,2,Total,11992372.625,4764136.643647347,Luty
+Austria,3,Domestic country,2237447.25,811779.9251864034,Marzec
+Austria,3,Foreign country,7046349.75,3333003.9344844874,Marzec
+Austria,3,Total,9283797.0,4135092.3996593556,Marzec
+Austria,4,Domestic country,1762758.5,847846.5887657473,Kwiecień
+Austria,4,Foreign country,3407087.375,2064971.4481847608,Kwiecień
+Austria,4,Total,5169845.875,2894757.070087251,Kwiecień
+Austria,5,Domestic country,2389435.5,902128.7002115765,Maj
+Austria,5,Foreign country,3355772.125,1836398.3541416402,Maj
+Austria,5,Total,5745207.625,2703451.4590575793,Maj
+Austria,6,Domestic country,3364639.5,367747.58131204225,Czerwiec
+Austria,6,Foreign country,5731705.5,2072629.2532320255,Czerwiec
+Austria,6,Total,9096345.0,2403167.2003687136,Czerwiec
+Austria,7,Domestic country,4488077.5,241607.88080748878,Lipiec
+Austria,7,Foreign country,10163895.625,1514862.4088637736,Lipiec
+Austria,7,Total,14651973.125,1299197.0495136534,Lipiec
+Austria,8,Domestic country,4950626.75,420803.5492981595,Sierpień
+Austria,8,Foreign country,11653875.0,1248303.3340199918,Sierpień
+Austria,8,Total,16604501.75,945411.4549292052,Sierpień
+Austria,9,Domestic country,3330022.5,219593.34954540725,Wrzesień
+Austria,9,Foreign country,6554057.625,742764.2756196876,Wrzesień
+Austria,9,Total,9884080.125,664352.4267109259,Wrzesień
+Austria,10,Domestic country,2642537.0,216587.37812848532,Październik
+Austria,10,Foreign country,4343798.0,1177409.226577695,Październik
+Austria,10,Total,6986335.0,1351269.8918023107,Październik
+Austria,11,Domestic country,1834845.25,531735.6234791739,Listopad
+Austria,11,Foreign country,2197838.875,901611.3072756286,Listopad
+Austria,11,Total,4032684.125,1431045.4265507574,Listopad
+Austria,12,Domestic country,1877834.4285714286,725870.666019059,Grudzień
+Austria,12,Foreign country,5670369.857142857,2788694.9134495053,Grudzień
+Austria,12,Total,7548204.285714285,3509895.2016828894,Grudzień
+Belgium,1,Domestic country,773515.5,188951.84259639127,Styczeń
+Belgium,1,Foreign country,876672.5,332870.50236948644,Styczeń
+Belgium,1,Total,1650188.0,512407.4906416907,Styczeń
+Belgium,2,Domestic country,1036058.5,164043.41344900138,Luty
+Belgium,2,Foreign country,1027421.125,387958.36893646116,Luty
+Belgium,2,Total,2063479.625,532018.3300134196,Luty
+Belgium,3,Domestic country,1196357.25,402181.32266562484,Marzec
+Belgium,3,Foreign country,1102332.625,529478.9835197664,Marzec
+Belgium,3,Total,2298689.875,900860.5155433232,Marzec
+Belgium,4,Domestic country,1695882.625,700648.6736670602,Kwiecień
+Belgium,4,Foreign country,1372572.0,790578.9465215621,Kwiecień
+Belgium,4,Total,3068454.625,1421316.417601849,Kwiecień
+Belgium,5,Domestic country,1619619.875,683616.7826386857,Maj
+Belgium,5,Foreign country,1500704.375,832164.3343256766,Maj
+Belgium,5,Total,3120324.25,1453257.2500123153,Maj
+Belgium,6,Domestic country,1715686.75,398185.0380340958,Czerwiec
+Belgium,6,Foreign country,1509691.125,703985.4422115838,Czerwiec
+Belgium,6,Total,3225377.875,1020137.2595894616,Czerwiec
+Belgium,7,Domestic country,3643148.5,363474.92233125836,Lipiec
+Belgium,7,Foreign country,2071613.75,609572.3669720673,Lipiec
+Belgium,7,Total,5714762.25,513108.21946412325,Lipiec
+Belgium,8,Domestic country,3126116.5,275724.99562063644,Sierpień
+Belgium,8,Foreign country,2306033.125,683029.2284606519,Sierpień
+Belgium,8,Total,5432149.625,619157.6233441085,Sierpień
+Belgium,9,Domestic country,1906917.5,159790.5612320614,Wrzesień
+Belgium,9,Foreign country,1526313.875,487707.95777286857,Wrzesień
+Belgium,9,Total,3433231.375,517738.14797911036,Wrzesień
+Belgium,10,Domestic country,1617354.125,289134.08438717615,Październik
+Belgium,10,Foreign country,1625281.75,567990.9217206481,Październik
+Belgium,10,Total,3242635.875,833044.605291155,Październik
+Belgium,11,Domestic country,1274985.375,346022.2339689161,Listopad
+Belgium,11,Foreign country,1118036.375,437674.5453824068,Listopad
+Belgium,11,Total,2393021.75,746041.3189173428,Listopad
+Belgium,12,Domestic country,1172753.2857142857,291526.2751604129,Grudzień
+Belgium,12,Foreign country,1168912.5714285714,517888.092073586,Grudzień
+Belgium,12,Total,2341665.8571428573,800383.0138168077,Grudzień
+Bulgaria,1,Domestic country,494789.4,82419.55237260148,Styczeń
+Bulgaria,1,Foreign country,444985.4,45572.95109821175,Styczeń
+Bulgaria,1,Total,939774.8,107954.54980083054,Styczeń
+Bulgaria,2,Domestic country,582858.8,99725.02873251025,Luty
+Bulgaria,2,Foreign country,414437.6,22729.564025735297,Luty
+Bulgaria,2,Total,997296.4,119739.71157598468,Luty
+Bulgaria,3,Domestic country,502747.0,177008.09233761037,Marzec
+Bulgaria,3,Foreign country,286295.2,81639.98848113588,Marzec
+Bulgaria,3,Total,789042.2,253624.172658483,Marzec
+Bulgaria,4,Domestic country,498100.8333333333,236768.39977954546,Kwiecień
+Bulgaria,4,Foreign country,287769.5,144626.0175331534,Kwiecień
+Bulgaria,4,Total,785870.3333333334,363880.1988180542,Kwiecień
+Bulgaria,5,Domestic country,610118.6,87534.6509149377,Maj
+Bulgaria,5,Foreign country,794133.4,164378.79184158763,Maj
+Bulgaria,5,Total,1404252.0,121873.95419243605,Maj
+Bulgaria,6,Domestic country,946974.5,260469.17351963173,Czerwiec
+Bulgaria,6,Foreign country,2031863.375,1119677.9583471997,Czerwiec
+Bulgaria,6,Total,2978837.875,1283574.6683596931,Czerwiec
+Bulgaria,7,Domestic country,1778542.25,345855.0888808574,Lipiec
+Bulgaria,7,Foreign country,3419728.25,1250606.3049095995,Lipiec
+Bulgaria,7,Total,5198270.5,1324460.153819553,Lipiec
+Bulgaria,8,Domestic country,2057060.0,311432.4782260193,Sierpień
+Bulgaria,8,Foreign country,3712516.375,1014227.4101645672,Sierpień
+Bulgaria,8,Total,5769576.375,957971.890574776,Sierpień
+Bulgaria,9,Domestic country,1047565.375,136236.5136139957,Wrzesień
+Bulgaria,9,Foreign country,1662559.0,578397.187698162,Wrzesień
+Bulgaria,9,Total,2710124.375,539339.7239275704,Wrzesień
+Bulgaria,10,Domestic country,613585.0,111230.30757546853,Październik
+Bulgaria,10,Foreign country,367209.2,8579.692517800391,Październik
+Bulgaria,10,Total,980205.75,109763.05366978757,Październik
+Bulgaria,11,Domestic country,502816.5,163229.12318680552,Listopad
+Bulgaria,11,Foreign country,195183.6,44763.601846813,Listopad
+Bulgaria,11,Total,692928.0,210016.04649803945,Listopad
+Bulgaria,12,Domestic country,550939.25,62941.866593309736,Grudzień
+Bulgaria,12,Foreign country,248744.0,63584.010872755316,Grudzień
+Bulgaria,12,Total,799683.25,126415.9020017524,Grudzień
+Croatia,1,Domestic country,218232.25,30664.19373401399,Styczeń
+Croatia,1,Foreign country,277879.0,88689.61380970314,Styczeń
+Croatia,1,Total,496111.25,112775.64754445628,Styczeń
+Croatia,2,Domestic country,214049.875,44080.58950680964,Luty
+Croatia,2,Foreign country,321119.5,107174.69164739539,Luty
+Croatia,2,Total,535169.375,141367.8494040459,Luty
+Croatia,3,Domestic country,241174.0,73101.63285649449,Marzec
+Croatia,3,Foreign country,567510.75,276412.9159659254,Marzec
+Croatia,3,Total,808684.75,344055.0876849935,Marzec
+Croatia,4,Domestic country,346690.25,153735.51471346588,Kwiecień
+Croatia,4,Foreign country,1788097.375,994102.5247915022,Kwiecień
+Croatia,4,Total,2134787.625,1131775.910803136,Kwiecień
+Croatia,5,Domestic country,432151.0,178662.75818663815,Maj
+Croatia,5,Foreign country,3716890.25,2096044.8464723642,Maj
+Croatia,5,Total,4149041.25,2257054.758090397,Maj
+Croatia,6,Domestic country,786004.625,154456.82401882455,Czerwiec
+Croatia,6,Foreign country,9932624.125,3509652.867018513,Czerwiec
+Croatia,6,Total,10718628.75,3616693.940317939,Czerwiec
+Croatia,7,Domestic country,1490928.0,192485.05837151548,Lipiec
+Croatia,7,Foreign country,21969231.75,3864706.4430482667,Lipiec
+Croatia,7,Total,23460159.75,3884605.4941627416,Lipiec
+Croatia,8,Domestic country,1943612.125,286109.62381249084,Sierpień
+Croatia,8,Foreign country,23805792.375,3794232.2997088972,Sierpień
+Croatia,8,Total,25749404.5,3692457.137765853,Sierpień
+Croatia,9,Domestic country,539822.5,98482.80516922739,Wrzesień
+Croatia,9,Foreign country,9163196.125,2656415.7000377374,Wrzesień
+Croatia,9,Total,9703018.625,2723170.934323909,Wrzesień
+Croatia,10,Domestic country,366687.5,80610.17660852225,Październik
+Croatia,10,Foreign country,2216181.125,814113.9883455137,Październik
+Croatia,10,Total,2582868.625,884836.8356430688,Październik
+Croatia,11,Domestic country,259430.25,74835.70327581424,Listopad
+Croatia,11,Foreign country,455429.875,148172.6028593849,Listopad
+Croatia,11,Total,714860.125,217259.06183924264,Listopad
+Croatia,12,Domestic country,227426.2857142857,61784.50939546332,Grudzień
+Croatia,12,Foreign country,411398.71428571426,161746.97183946936,Grudzień
+Croatia,12,Total,638825.0,220780.06458011558,Grudzień
+Cyprus,1,Domestic country,48739.25,13243.575517963418,Styczeń
+Cyprus,1,Foreign country,212223.0,96459.389016459,Styczeń
+Cyprus,1,Total,260962.25,107831.47756933367,Styczeń
+Cyprus,2,Domestic country,48154.25,19512.524481544082,Luty
+Cyprus,2,Foreign country,272260.5,121963.4683770982,Luty
+Cyprus,2,Total,320414.75,138899.14271436565,Luty
+Cyprus,3,Domestic country,51347.75,26188.684114381485,Marzec
+Cyprus,3,Foreign country,422956.0,208988.77680529025,Marzec
+Cyprus,3,Total,474303.75,229783.61629631973,Marzec
+Cyprus,4,Domestic country,53596.0,32929.95778488466,Kwiecień
+Cyprus,4,Foreign country,837599.625,490468.1649785342,Kwiecień
+Cyprus,4,Total,891195.625,521386.7194152087,Kwiecień
+Cyprus,5,Domestic country,54387.875,25669.41082543579,Maj
+Cyprus,5,Foreign country,1329232.125,743665.8992188509,Maj
+Cyprus,5,Total,1383620.0,759321.1703067418,Maj
+Cyprus,6,Domestic country,120016.875,61243.76275049799,Czerwiec
+Cyprus,6,Foreign country,1609425.5,785282.3442285856,Czerwiec
+Cyprus,6,Total,1729442.375,767665.0567789384,Czerwiec
+Cyprus,7,Domestic country,178133.25,50894.790369798306,Lipiec
+Cyprus,7,Foreign country,1874642.875,767290.9312899763,Lipiec
+Cyprus,7,Total,2052776.125,744092.5984794091,Lipiec
+Cyprus,8,Domestic country,317702.875,102960.96107254508,Sierpień
+Cyprus,8,Foreign country,1965194.875,688471.2767770215,Sierpień
+Cyprus,8,Total,2282897.75,638793.9509266661,Sierpień
+Cyprus,9,Domestic country,92993.625,29424.566402619137,Wrzesień
+Cyprus,9,Foreign country,1821507.125,640084.1188068147,Wrzesień
+Cyprus,9,Total,1914500.75,620823.9597626344,Wrzesień
+Cyprus,10,Domestic country,75598.5,25598.07127779078,Październik
+Cyprus,10,Foreign country,1739101.25,537227.3330967202,Październik
+Cyprus,10,Total,1814699.75,528416.555837681,Październik
+Cyprus,11,Domestic country,49077.375,13310.908243536844,Listopad
+Cyprus,11,Foreign country,583897.75,218622.02539395963,Listopad
+Cyprus,11,Total,632975.125,228208.57587706752,Listopad
+Cyprus,12,Domestic country,68067.28571428571,12568.122277071807,Grudzień
+Cyprus,12,Foreign country,261055.14285714287,105322.96463011374,Grudzień
+Cyprus,12,Total,329122.4285714286,112827.89490023753,Grudzień
+Czechia,1,Domestic country,1403116.375,466691.88252267,Styczeń
+Czechia,1,Foreign country,1244062.875,604704.6232508746,Styczeń
+Czechia,1,Total,2647179.25,1034479.5129987902,Styczeń
+Czechia,2,Domestic country,1772334.125,594270.1555878528,Luty
+Czechia,2,Foreign country,1343731.75,614657.6377993455,Luty
+Czechia,2,Total,3116065.875,1153190.4072520395,Luty
+Czechia,3,Domestic country,1587056.375,613292.454128403,Marzec
+Czechia,3,Foreign country,1348733.75,728545.5699995222,Marzec
+Czechia,3,Total,2935790.125,1273317.3127988435,Marzec
+Czechia,4,Domestic country,1387581.5,742311.2175363415,Kwiecień
+Czechia,4,Foreign country,1503968.75,952015.7441104712,Kwiecień
+Czechia,4,Total,2891550.25,1657880.8107325924,Kwiecień
+Czechia,5,Domestic country,1972320.625,878581.8355687823,Maj
+Czechia,5,Foreign country,1666092.5,1026022.9259896125,Maj
+Czechia,5,Total,3638413.125,1864231.8944335403,Maj
+Czechia,6,Domestic country,2686570.25,404892.9483956224,Czerwiec
+Czechia,6,Foreign country,1706223.25,897511.3230753692,Czerwiec
+Czechia,6,Total,4392793.5,1184264.2457903677,Czerwiec
+Czechia,7,Domestic country,5532539.5,540778.9350110769,Lipiec
+Czechia,7,Foreign country,2224633.75,868743.5445459231,Lipiec
+Czechia,7,Total,7757173.25,481111.6555667867,Lipiec
+Czechia,8,Domestic country,5242295.0,614240.5455112841,Sierpień
+Czechia,8,Foreign country,2395973.875,790975.4573540261,Sierpień
+Czechia,8,Total,7638268.875,334878.7028801572,Sierpień
+Czechia,9,Domestic country,2801091.125,315810.1787102217,Wrzesień
+Czechia,9,Foreign country,1863447.75,682282.4545598504,Wrzesień
+Czechia,9,Total,4664538.875,548467.3105577129,Wrzesień
+Czechia,10,Domestic country,1944622.125,432232.79719992087,Październik
+Czechia,10,Foreign country,1831696.0,797049.7013316404,Październik
+Czechia,10,Total,3776318.125,1084302.4812189417,Październik
+Czechia,11,Domestic country,1451143.5,444448.39212251146,Listopad
+Czechia,11,Foreign country,1368780.0,621890.9369647198,Listopad
+Czechia,11,Total,2819923.5,1024830.0278797455,Listopad
+Czechia,12,Domestic country,1150542.5714285714,333487.1431329136,Grudzień
+Czechia,12,Foreign country,1547754.857142857,827388.1099305671,Grudzień
+Czechia,12,Total,2698297.4285714286,1127394.416966375,Grudzień
+Denmark,1,Domestic country,739303.75,209235.41982707966,Styczeń
+Denmark,1,Foreign country,362781.75,158358.83021322175,Styczeń
+Denmark,1,Total,1102085.5,360090.02752446703,Styczeń
+Denmark,2,Domestic country,929313.875,236541.75038574808,Luty
+Denmark,2,Foreign country,397541.0,148814.4559596662,Luty
+Denmark,2,Total,1326854.875,368875.7594469357,Luty
+Denmark,3,Domestic country,1058394.0,361763.09382917586,Marzec
+Denmark,3,Foreign country,475965.375,233032.9194917304,Marzec
+Denmark,3,Total,1534359.375,581330.6969467152,Marzec
+Denmark,4,Domestic country,1623366.375,501970.57101528445,Kwiecień
+Denmark,4,Foreign country,719135.875,423405.91067317675,Kwiecień
+Denmark,4,Total,2342502.25,899641.2387930376,Kwiecień
+Denmark,5,Domestic country,2133617.5,420173.41608741914,Maj
+Denmark,5,Foreign country,928410.0,537443.1046985345,Maj
+Denmark,5,Total,3062027.5,915801.3680754453,Maj
+Denmark,6,Domestic country,2304505.625,471009.2590187699,Czerwiec
+Denmark,6,Foreign country,1223203.375,555330.4132627292,Czerwiec
+Denmark,6,Total,3527709.0,948341.7394642081,Czerwiec
+Denmark,7,Domestic country,4721402.0,646980.173300984,Lipiec
+Denmark,7,Foreign country,2347729.0,716334.586966773,Lipiec
+Denmark,7,Total,7069131.0,368587.2373044331,Lipiec
+Denmark,8,Domestic country,2909768.0,274220.3590873588,Sierpień
+Denmark,8,Foreign country,2210447.625,607856.3925336165,Sierpień
+Denmark,8,Total,5120215.625,647175.1126344483,Sierpień
+Denmark,9,Domestic country,2009079.875,248999.6929748179,Wrzesień
+Denmark,9,Foreign country,945854.625,266709.39937153505,Wrzesień
+Denmark,9,Total,2954934.5,438389.4022656766,Wrzesień
+Denmark,10,Domestic country,1637240.125,217125.73994507515,Październik
+Denmark,10,Foreign country,824112.5,271553.70487253525,Październik
+Denmark,10,Total,2461352.625,404666.5978873182,Październik
+Denmark,11,Domestic country,1189310.5,232881.84029429423,Listopad
+Denmark,11,Foreign country,543759.125,192207.1680099645,Listopad
+Denmark,11,Total,1733069.625,399932.7164568479,Listopad
+Denmark,12,Domestic country,838649.8571428572,196153.7638821719,Grudzień
+Denmark,12,Foreign country,480698.14285714284,212209.88642884398,Grudzień
+Denmark,12,Total,1319348.0,389418.18646411475,Grudzień
+Estonia,1,Domestic country,158661.2857142857,16218.757830716531,Styczeń
+Estonia,1,Foreign country,182300.0,81720.4516119843,Styczeń
+Estonia,1,Total,340961.28571428574,79229.1512527939,Styczeń
+Estonia,2,Domestic country,173814.0,19634.4226805883,Luty
+Estonia,2,Foreign country,189659.0,74830.07325667936,Luty
+Estonia,2,Total,358006.6666666667,85262.37387890785,Luty
+Estonia,3,Domestic country,162701.5,50057.60386080934,Marzec
+Estonia,3,Foreign country,188911.2857142857,88912.73628435597,Marzec
+Estonia,3,Total,346713.0,136786.74914990852,Marzec
+Estonia,4,Domestic country,151647.0,64266.640309469,Kwiecień
+Estonia,4,Foreign country,192182.14285714287,122497.55157475402,Kwiecień
+Estonia,4,Total,330832.1666666667,192695.19830905664,Kwiecień
+Estonia,5,Domestic country,170763.0,51325.15829771705,Maj
+Estonia,5,Foreign country,258089.875,151419.77400820685,Maj
+Estonia,5,Total,428852.875,190045.26826179185,Maj
+Estonia,6,Domestic country,274592.5,39902.56267101508,Czerwiec
+Estonia,6,Foreign country,315650.25,160741.08847615783,Czerwiec
+Estonia,6,Total,590242.75,160158.3035845205,Czerwiec
+Estonia,7,Domestic country,413809.125,63056.319648022385,Lipiec
+Estonia,7,Foreign country,462466.375,164096.63531584718,Lipiec
+Estonia,7,Total,876275.5,127317.69096914334,Lipiec
+Estonia,8,Domestic country,365934.625,40035.24706319064,Sierpień
+Estonia,8,Foreign country,399297.5,128160.8164288691,Sierpień
+Estonia,8,Total,765232.125,102096.18228686895,Sierpień
+Estonia,9,Domestic country,201781.2857142857,23675.995091472472,Wrzesień
+Estonia,9,Foreign country,270048.0,98316.94340535322,Wrzesień
+Estonia,9,Total,460244.14285714284,91154.93086393915,Wrzesień
+Estonia,10,Domestic country,206207.16666666666,19958.28331712592,Październik
+Estonia,10,Foreign country,257449.875,97245.80737850053,Październik
+Estonia,10,Total,474261.3333333333,95649.79297346475,Październik
+Estonia,11,Domestic country,182946.66666666666,16588.394288377243,Listopad
+Estonia,11,Foreign country,221071.66666666666,87738.66940332904,Listopad
+Estonia,11,Total,402417.0,101454.38427934004,Listopad
+Estonia,12,Domestic country,190966.16666666666,16736.205620350946,Grudzień
+Estonia,12,Foreign country,229236.33333333334,109361.3253187189,Grudzień
+Estonia,12,Total,420202.5,118026.68916266355,Grudzień
+European Union - 27 countries (from 2020),1,Domestic country,63738500.875,16962878.40522933,Styczeń
+European Union - 27 countries (from 2020),1,Foreign country,48060001.125,19471257.62421755,Styczeń
+European Union - 27 countries (from 2020),1,Total,111798502.0,36220991.71592047,Styczeń
+European Union - 27 countries (from 2020),2,Domestic country,71070064.375,17294212.27314273,Luty
+European Union - 27 countries (from 2020),2,Foreign country,52986765.5,20727152.549544584,Luty
+European Union - 27 countries (from 2020),2,Total,124056829.875,37776555.605253436,Luty
+European Union - 27 countries (from 2020),3,Domestic country,74845582.0,25007725.043995574,Marzec
+European Union - 27 countries (from 2020),3,Foreign country,55520082.25,26352188.627454814,Marzec
+European Union - 27 countries (from 2020),3,Total,130365664.25,51122416.98796807,Marzec
+European Union - 27 countries (from 2020),4,Domestic country,87565254.0,41146175.40575789,Kwiecień
+European Union - 27 countries (from 2020),4,Foreign country,67066315.5,39042042.98495466,Kwiecień
+European Union - 27 countries (from 2020),4,Total,154631569.5,79753897.73649275,Kwiecień
+European Union - 27 countries (from 2020),5,Domestic country,104189470.875,39087798.206169404,Maj
+European Union - 27 countries (from 2020),5,Foreign country,90233517.625,51055334.4216497,Maj
+European Union - 27 countries (from 2020),5,Total,194422988.5,88970336.03320621,Maj
+European Union - 27 countries (from 2020),6,Domestic country,141821550.25,27785647.670306966,Czerwiec
+European Union - 27 countries (from 2020),6,Foreign country,121974050.875,57553454.20341196,Czerwiec
+European Union - 27 countries (from 2020),6,Total,263795601.125,83368861.12443379,Czerwiec
+European Union - 27 countries (from 2020),7,Domestic country,225498639.375,15232227.707640132,Lipiec
+European Union - 27 countries (from 2020),7,Foreign country,184808055.0,57040760.861128666,Lipiec
+European Union - 27 countries (from 2020),7,Total,410306694.375,64545877.45623118,Lipiec
+European Union - 27 countries (from 2020),8,Domestic country,262524663.25,12365940.438280344,Sierpień
+European Union - 27 countries (from 2020),8,Foreign country,192797101.125,50484551.12379561,Sierpień
+European Union - 27 countries (from 2020),8,Total,455321764.375,49995400.91481939,Sierpień
+European Union - 27 countries (from 2020),9,Domestic country,138828019.375,8611052.629792951,Wrzesień
+European Union - 27 countries (from 2020),9,Foreign country,130356497.75,38825463.629591085,Wrzesień
+European Union - 27 countries (from 2020),9,Total,269184517.125,43654183.42772056,Wrzesień
+European Union - 27 countries (from 2020),10,Domestic country,102988094.25,11128683.696345218,Październik
+European Union - 27 countries (from 2020),10,Foreign country,89587622.125,30096494.83702229,Październik
+European Union - 27 countries (from 2020),10,Total,192575716.375,39592080.3575798,Październik
+European Union - 27 countries (from 2020),11,Domestic country,71319943.5,18657972.85873636,Listopad
+European Union - 27 countries (from 2020),11,Foreign country,46689390.0,17301027.768622957,Listopad
+European Union - 27 countries (from 2020),11,Total,118009333.5,35769628.482362755,Listopad
+European Union - 27 countries (from 2020),12,Domestic country,70331685.42857143,20103683.037684835,Grudzień
+European Union - 27 countries (from 2020),12,Foreign country,47149424.0,20053302.138483994,Grudzień
+European Union - 27 countries (from 2020),12,Total,117481109.42857143,39987388.3375258,Grudzień
+Finland,1,Domestic country,843756.0,123864.39600512442,Styczeń
+Finland,1,Foreign country,526998.125,224653.3217753444,Styczeń
+Finland,1,Total,1370754.125,334450.5983632763,Styczeń
+Finland,2,Domestic country,1095017.0,123099.53769786695,Luty
+Finland,2,Foreign country,501513.125,195105.27909269725,Luty
+Finland,2,Total,1596530.125,310072.30762353184,Luty
+Finland,3,Domestic country,1197217.375,266463.9731729695,Marzec
+Finland,3,Foreign country,422891.625,185063.51900356307,Marzec
+Finland,3,Total,1620109.0,430311.7242508206,Marzec
+Finland,4,Domestic country,1034591.875,396551.46404486394,Kwiecień
+Finland,4,Foreign country,238697.125,136746.67274347378,Kwiecień
+Finland,4,Total,1273289.0,513964.0737269483,Kwiecień
+Finland,5,Domestic country,979751.625,315119.86622913484,Maj
+Finland,5,Foreign country,302927.125,166132.71897701678,Maj
+Finland,5,Total,1282678.75,463024.2606635979,Maj
+Finland,6,Domestic country,1601511.625,237991.20129350372,Czerwiec
+Finland,6,Foreign country,413243.25,228463.9076032736,Czerwiec
+Finland,6,Total,2014754.875,403039.9826633431,Czerwiec
+Finland,7,Domestic country,2574248.625,286343.6921233629,Lipiec
+Finland,7,Foreign country,568325.875,267834.0534192434,Lipiec
+Finland,7,Total,3142574.5,245456.4839407821,Lipiec
+Finland,8,Domestic country,1643921.5,103317.4917260936,Sierpień
+Finland,8,Foreign country,570674.5,241007.36016561819,Sierpień
+Finland,8,Total,2214596.0,242812.3656294535,Sierpień
+Finland,9,Domestic country,1326902.375,104578.0239956717,Wrzesień
+Finland,9,Foreign country,373285.25,147868.73502608415,Wrzesień
+Finland,9,Total,1700187.625,205847.80984569128,Wrzesień
+Finland,10,Domestic country,1254955.25,132409.40540907852,Październik
+Finland,10,Foreign country,305431.5,114814.34944167164,Październik
+Finland,10,Total,1560386.75,184505.27331585175,Październik
+Finland,11,Domestic country,1037877.5,128679.585840179,Listopad
+Finland,11,Foreign country,365966.0,128228.47222494254,Listopad
+Finland,11,Total,1403843.5,242915.5821250314,Listopad
+Finland,12,Domestic country,961620.8571428572,119666.15479801652,Grudzień
+Finland,12,Foreign country,641271.0,263493.1038427129,Grudzień
+Finland,12,Total,1602891.857142857,375299.5204750594,Grudzień
+France,1,Domestic country,12659148.375,2583236.7596253534,Styczeń
+France,1,Foreign country,4918617.125,1912480.5691132757,Styczeń
+France,1,Total,17577765.5,4461390.839301798,Styczeń
+France,2,Domestic country,15076052.25,2970964.8360508243,Luty
+France,2,Foreign country,4773294.0,1770719.117507267,Luty
+France,2,Total,19849346.25,4610786.685031579,Luty
+France,3,Domestic country,14807123.125,4267834.113709317,Marzec
+France,3,Foreign country,5576950.5,2584199.263170371,Marzec
+France,3,Total,20384073.625,6779524.77341089,Marzec
+France,4,Domestic country,18817540.25,9064874.677148411,Kwiecień
+France,4,Foreign country,7220833.0,4222961.7616666015,Kwiecień
+France,4,Total,26038373.25,13238016.290219195,Kwiecień
+France,5,Domestic country,21850511.75,8902039.755883781,Maj
+France,5,Foreign country,8264045.375,4899165.204887984,Maj
+France,5,Total,30114557.125,13468779.68000517,Maj
+France,6,Domestic country,26322622.5,4604029.181756563,Czerwiec
+France,6,Foreign country,11698611.375,5687910.640383237,Czerwiec
+France,6,Total,38021233.875,9915233.799878137,Czerwiec
+France,7,Domestic country,51131683.75,3419451.728703416,Lipiec
+France,7,Foreign country,21584785.375,5702701.727416174,Lipiec
+France,7,Total,72716469.125,7124391.586905318,Lipiec
+France,8,Domestic country,64090660.5,1983296.4202602555,Sierpień
+France,8,Foreign country,22341563.375,5708855.582576072,Sierpień
+France,8,Total,86432223.875,5707838.026545086,Sierpień
+France,9,Domestic country,26187815.875,1713372.9743342467,Wrzesień
+France,9,Foreign country,11764131.75,3681491.829034519,Wrzesień
+France,9,Total,37951947.625,4904814.276904943,Wrzesień
+France,10,Domestic country,16992568.875,1310876.5907746549,Październik
+France,10,Foreign country,6504955.125,2406212.6799719003,Październik
+France,10,Total,23497524.0,3539613.887951866,Październik
+France,11,Domestic country,12249928.75,3071294.693789424,Listopad
+France,11,Foreign country,4163196.375,1584412.2838867176,Listopad
+France,11,Total,16413125.125,4569046.5271296855,Listopad
+France,12,Domestic country,13252294.714285715,2964515.6363625247,Grudzień
+France,12,Foreign country,5053500.857142857,2090618.2203595047,Grudzień
+France,12,Total,18305795.57142857,4913984.810841023,Grudzień
+Germany,1,Domestic country,14067787.25,4821652.282098408,Styczeń
+Germany,1,Foreign country,3787791.625,1611843.169267136,Styczeń
+Germany,1,Total,17855578.875,6380530.424105807,Styczeń
+Germany,2,Domestic country,15478451.5,5209598.442545315,Luty
+Germany,2,Foreign country,4334105.375,1737956.6621215139,Luty
+Germany,2,Total,19812556.875,6895889.252079644,Luty
+Germany,3,Domestic country,17931641.625,6978946.807379728,Marzec
+Germany,3,Foreign country,4276827.0,1953250.9301493096,Marzec
+Germany,3,Total,22208468.625,8851291.697441064,Marzec
+Germany,4,Domestic country,20859550.0,10920255.24784602,Kwiecień
+Germany,4,Foreign country,4946817.125,2714305.846075695,Kwiecień
+Germany,4,Total,25806367.125,13544001.988035109,Kwiecień
+Germany,5,Domestic country,27060776.625,11195566.413338106,Maj
+Germany,5,Foreign country,5575030.875,2964092.062373976,Maj
+Germany,5,Total,32635807.5,14090264.559482265,Maj
+Germany,6,Domestic country,33025599.125,5403872.335463854,Czerwiec
+Germany,6,Foreign country,6206501.375,2849048.629758359,Czerwiec
+Germany,6,Total,39232100.5,8053779.019458133,Czerwiec
+Germany,7,Domestic country,40454751.375,2087415.5251772073,Lipiec
+Germany,7,Foreign country,8877119.0,2695491.6507664635,Lipiec
+Germany,7,Total,49331870.375,4365681.400109133,Lipiec
+Germany,8,Domestic country,42599925.0,2453675.814073477,Sierpień
+Germany,8,Foreign country,8669670.125,2459337.665175753,Sierpień
+Germany,8,Total,51269595.125,2812106.184645719,Sierpień
+Germany,9,Domestic country,34909078.125,1434628.4743484168,Wrzesień
+Germany,9,Foreign country,6809043.75,1870842.2274305646,Wrzesień
+Germany,9,Total,41718121.875,2324438.657983253,Wrzesień
+Germany,10,Domestic country,31575051.875,2342837.4230418275,Październik
+Germany,10,Foreign country,6195870.875,1873095.3730289366,Październik
+Germany,10,Total,37770922.75,3757094.7979482687,Październik
+Germany,11,Domestic country,18104621.25,5584487.616960005,Listopad
+Germany,11,Foreign country,4711720.5,1717594.7534739217,Listopad
+Germany,11,Total,22816341.75,7259589.362041781,Listopad
+Germany,12,Domestic country,16040438.714285715,6311388.991427632,Grudzień
+Germany,12,Foreign country,4727746.714285715,2223750.2083286177,Grudzień
+Germany,12,Total,20768185.42857143,8512049.163440295,Grudzień
+Greece,1,Domestic country,897378.125,293392.1251043863,Styczeń
+Greece,1,Foreign country,474268.0,192353.14452255334,Styczeń
+Greece,1,Total,1371646.125,482802.46997546597,Styczeń
+Greece,2,Domestic country,895672.375,271792.7885277614,Luty
+Greece,2,Foreign country,525738.25,211719.27387850842,Luty
+Greece,2,Total,1421410.625,478819.1066031804,Luty
+Greece,3,Domestic country,1148307.857142857,383689.13058074703,Marzec
+Greece,3,Foreign country,883191.0,381068.0768629144,Marzec
+Greece,3,Total,2031498.857142857,760964.390244254,Marzec
+Greece,4,Domestic country,1282707.75,679534.3902952437,Kwiecień
+Greece,4,Foreign country,3134252.125,1973977.122695733,Kwiecień
+Greece,4,Total,4416959.875,2635869.528073174,Kwiecień
+Greece,5,Domestic country,1183423.0,575122.5399043234,Maj
+Greece,5,Foreign country,9351320.25,5472482.504581151,Maj
+Greece,5,Total,10534743.25,6038338.534918851,Maj
+Greece,6,Domestic country,1971969.75,611535.121577482,Czerwiec
+Greece,6,Foreign country,15100165.75,7744706.132634597,Czerwiec
+Greece,6,Total,17072135.5,8336803.0471481085,Czerwiec
+Greece,7,Domestic country,3391470.875,515968.81896941835,Lipiec
+Greece,7,Foreign country,20597427.25,7667846.758366537,Lipiec
+Greece,7,Total,23988898.125,8173901.629677111,Lipiec
+Greece,8,Domestic country,4816711.25,491718.57138400676,Sierpień
+Greece,8,Foreign country,21941992.25,6619228.376575577,Sierpień
+Greece,8,Total,26758703.5,7085612.55022028,Sierpień
+Greece,9,Domestic country,2009763.875,347388.56304820464,Wrzesień
+Greece,9,Foreign country,16667774.625,4815231.117274788,Wrzesień
+Greece,9,Total,18677538.5,5149501.853007531,Wrzesień
+Greece,10,Domestic country,1270445.625,231087.53178947925,Październik
+Greece,10,Foreign country,7950891.5,1646544.9572919135,Październik
+Greece,10,Total,9221337.125,1873972.4897447466,Październik
+Greece,11,Domestic country,948768.0,281171.80810722423,Listopad
+Greece,11,Foreign country,880644.625,283204.3914953789,Listopad
+Greece,11,Total,1829412.625,562067.0646527963,Listopad
+Greece,12,Domestic country,1238295.3333333333,234941.68160687594,Grudzień
+Greece,12,Foreign country,584070.5,158332.70563310664,Grudzień
+Greece,12,Total,1822365.8333333333,384817.3079898651,Grudzień
+Hungary,1,Domestic country,684174.625,225695.8760645696,Styczeń
+Hungary,1,Foreign country,665736.375,263146.23733307223,Styczeń
+Hungary,1,Total,1349911.0,483539.65073581535,Styczeń
+Hungary,2,Domestic country,733635.0,239630.32437664716,Luty
+Hungary,2,Foreign country,679915.5,264103.4995592231,Luty
+Hungary,2,Total,1413550.5,497043.3779170012,Luty
+Hungary,3,Domestic country,818466.375,336089.2031253172,Marzec
+Hungary,3,Foreign country,770741.625,355636.24528077943,Marzec
+Hungary,3,Total,1589208.0,687383.6532282599,Marzec
+Hungary,4,Domestic country,854681.5,457768.4887470022,Kwiecień
+Hungary,4,Foreign country,882297.375,519778.41346672154,Kwiecień
+Hungary,4,Total,1736978.875,972118.6469182272,Kwiecień
+Hungary,5,Domestic country,1068088.625,425653.64328387845,Maj
+Hungary,5,Foreign country,996196.0,583515.1508785844,Maj
+Hungary,5,Total,2064284.625,996112.9223967011,Maj
+Hungary,6,Domestic country,1609905.5,367132.53165152384,Czerwiec
+Hungary,6,Foreign country,1062822.5,556696.0102823494,Czerwiec
+Hungary,6,Total,2672728.0,899221.8244078758,Czerwiec
+Hungary,7,Domestic country,2840838.75,229839.80302111676,Lipiec
+Hungary,7,Foreign country,1492008.125,597743.5073202833,Lipiec
+Hungary,7,Total,4332846.875,783571.4637510622,Lipiec
+Hungary,8,Domestic country,2870492.375,119361.52927608206,Sierpień
+Hungary,8,Foreign country,1672089.625,563755.4564373096,Sierpień
+Hungary,8,Total,4542582.0,540783.5078811906,Sierpień
+Hungary,9,Domestic country,1249147.0,99344.58219608293,Wrzesień
+Hungary,9,Foreign country,1146546.25,472167.2413713326,Wrzesień
+Hungary,9,Total,2395693.25,533874.2537644048,Wrzesień
+Hungary,10,Domestic country,1162966.25,108273.64963534364,Październik
+Hungary,10,Foreign country,1016880.0,409793.1878674551,Październik
+Hungary,10,Total,2179846.25,511924.8014597875,Październik
+Hungary,11,Domestic country,876080.75,270971.02646158106,Listopad
+Hungary,11,Foreign country,850513.25,337696.7458490997,Listopad
+Hungary,11,Total,1726594.0,607744.5329121205,Listopad
+Hungary,12,Domestic country,799093.5714285715,319773.72234954784,Grudzień
+Hungary,12,Foreign country,799264.5714285715,369712.60733253206,Grudzień
+Hungary,12,Total,1598358.142857143,686331.151690501,Grudzień
+Iceland,1,Domestic country,51777.125,15415.223963319044,Styczeń
+Iceland,1,Foreign country,287673.0,129303.78503685475,Styczeń
+Iceland,1,Total,339450.125,132884.67554068667,Styczeń
+Iceland,2,Domestic country,71078.625,26273.704170506408,Luty
+Iceland,2,Foreign country,367998.375,155169.22817817557,Luty
+Iceland,2,Total,439077.0,159375.63511223593,Luty
+Iceland,3,Domestic country,79065.25,34046.65915538347,Marzec
+Iceland,3,Foreign country,386478.875,178411.41266140816,Marzec
+Iceland,3,Total,465544.125,194831.23020812325,Marzec
+Iceland,4,Domestic country,72997.125,36645.605522695354,Kwiecień
+Iceland,4,Foreign country,293135.375,169464.8981158361,Kwiecień
+Iceland,4,Total,366132.5,195163.22339591983,Kwiecień
+Iceland,5,Domestic country,97441.25,30575.353275613536,Maj
+Iceland,5,Foreign country,392079.375,214731.46806381055,Maj
+Iceland,5,Total,489520.625,223388.25852565528,Maj
+Iceland,6,Domestic country,201379.875,52572.82762426531,Czerwiec
+Iceland,6,Foreign country,661025.875,315559.940972704,Czerwiec
+Iceland,6,Total,862405.75,301585.5736994773,Czerwiec
+Iceland,7,Domestic country,392019.5,134046.58461786443,Lipiec
+Iceland,7,Foreign country,945275.0,317478.66767390847,Lipiec
+Iceland,7,Total,1337294.5,246398.47230219818,Lipiec
+Iceland,8,Domestic country,252632.0,69622.75354672904,Sierpień
+Iceland,8,Foreign country,952383.25,309839.3722499035,Sierpień
+Iceland,8,Total,1205015.25,289828.093457755,Sierpień
+Iceland,9,Domestic country,127954.625,52996.82196115294,Wrzesień
+Iceland,9,Foreign country,651292.25,261590.92929214606,Wrzesień
+Iceland,9,Total,779246.875,282313.35491888016,Wrzesień
+Iceland,10,Domestic country,94060.85714285714,39607.78027706413,Październik
+Iceland,10,Foreign country,469564.4285714286,205674.52137447422,Październik
+Iceland,10,Total,563625.2857142857,223280.97372571798,Październik
+Iceland,11,Domestic country,69143.57142857143,26810.330520511074,Listopad
+Iceland,11,Foreign country,333912.14285714284,151458.66166100523,Listopad
+Iceland,11,Total,403055.71428571426,163035.8332297068,Listopad
+Iceland,12,Domestic country,55178.57142857143,21588.49638779214,Grudzień
+Iceland,12,Foreign country,295056.71428571426,141028.1889962834,Grudzień
+Iceland,12,Total,350235.28571428574,147354.33322631347,Grudzień
+Ireland,1,Domestic country,624984.0,238355.25576262563,Styczeń
+Ireland,1,Foreign country,783267.7142857143,379114.85816997214,Styczeń
+Ireland,1,Total,1408251.7142857143,565416.320088633,Styczeń
+Ireland,2,Domestic country,825817.5714285715,342413.3012038021,Luty
+Ireland,2,Foreign country,830992.1428571428,383868.0224197845,Luty
+Ireland,2,Total,1656809.7142857143,682099.3731932112,Luty
+Ireland,3,Domestic country,845525.0,379794.9325539595,Marzec
+Ireland,3,Foreign country,1021955.0,551377.7818685963,Marzec
+Ireland,3,Total,1867480.0,891019.2412709167,Marzec
+Ireland,4,Domestic country,964278.2857142857,676596.4731432649,Kwiecień
+Ireland,4,Foreign country,1063022.2857142857,716510.5179208732,Kwiecień
+Ireland,4,Total,2027300.5714285714,1346067.161969622,Kwiecień
+Ireland,5,Domestic country,899429.7142857143,619931.8187246384,Maj
+Ireland,5,Foreign country,1536151.4285714286,1049424.029448195,Maj
+Ireland,5,Total,2435581.1428571427,1629508.6001776147,Maj
+Ireland,6,Domestic country,1419641.0,728794.24330671,Czerwiec
+Ireland,6,Foreign country,1593161.4285714286,1046057.8353661676,Czerwiec
+Ireland,6,Total,3012802.4285714286,1710922.87487746,Czerwiec
+Ireland,7,Domestic country,2489874.8571428573,644644.6352462801,Lipiec
+Ireland,7,Foreign country,1799104.857142857,1040232.3898122362,Lipiec
+Ireland,7,Total,4288979.714285715,1230641.0513001904,Lipiec
+Ireland,8,Domestic country,3000415.285714286,953507.4895791701,Sierpień
+Ireland,8,Foreign country,2005123.857142857,1148931.181590007,Sierpień
+Ireland,8,Total,5005539.142857143,1142045.4317503353,Sierpień
+Ireland,9,Domestic country,1292080.2857142857,213340.90358368872,Wrzesień
+Ireland,9,Foreign country,1622743.5714285714,925928.7607931575,Wrzesień
+Ireland,9,Total,2914823.8571428573,968389.9920514856,Wrzesień
+Ireland,10,Domestic country,1069980.7142857143,365114.1210912529,Październik
+Ireland,10,Foreign country,1330207.5714285714,678646.3655448881,Październik
+Ireland,10,Total,2400188.285714286,992394.3467316331,Październik
+Ireland,11,Domestic country,949889.4285714285,456849.169094446,Listopad
+Ireland,11,Foreign country,892723.2857142857,432089.91106084787,Listopad
+Ireland,11,Total,1842612.7142857143,860639.3395504907,Listopad
+Ireland,12,Domestic country,798111.5,342333.76681230264,Grudzień
+Ireland,12,Foreign country,1081649.0,660942.7055498834,Grudzień
+Ireland,12,Total,1879760.5,667431.118385036,Grudzień
+Italy,1,Domestic country,8969324.0,2541785.4188116896,Styczeń
+Italy,1,Foreign country,6331898.125,2753421.4279231075,Styczeń
+Italy,1,Total,15301222.125,5243641.716454604,Styczeń
+Italy,2,Domestic country,8157997.0,1849372.5748504158,Luty
+Italy,2,Foreign country,7837814.5,3248495.1885750773,Luty
+Italy,2,Total,15995811.5,5080973.4167684,Luty
+Italy,3,Domestic country,8344068.375,3286674.3547294964,Marzec
+Italy,3,Foreign country,8050166.875,4724665.299274994,Marzec
+Italy,3,Total,16394235.25,7963919.026252065,Marzec
+Italy,4,Domestic country,9937976.875,4749668.044448774,Kwiecień
+Italy,4,Foreign country,11353931.125,6856658.473385923,Kwiecień
+Italy,4,Total,21291908.0,11548299.268270086,Kwiecień
+Italy,5,Domestic country,10136971.75,3609167.554174854,Maj
+Italy,5,Foreign country,16248841.875,9512757.683251107,Maj
+Italy,5,Total,26385813.625,12810655.889083976,Maj
+Italy,6,Domestic country,22575067.5,5423078.860614855,Czerwiec
+Italy,6,Foreign country,22386964.375,10538318.867524555,Czerwiec
+Italy,6,Total,44962031.875,15619764.255087687,Czerwiec
+Italy,7,Domestic country,36655229.0,3063057.3928400367,Lipiec
+Italy,7,Foreign country,32265994.125,10289484.97598819,Lipiec
+Italy,7,Total,68921223.125,12593812.527671983,Lipiec
+Italy,8,Domestic country,48917643.0,2109458.7645229893,Sierpień
+Italy,8,Foreign country,31841609.5,7342951.867472897,Sierpień
+Italy,8,Total,80759252.5,6809577.145992214,Sierpień
+Italy,9,Domestic country,19238875.875,978778.9174818707,Wrzesień
+Italy,9,Foreign country,25339248.375,6019686.898355807,Wrzesień
+Italy,9,Total,44578124.25,6342191.608661377,Wrzesień
+Italy,10,Domestic country,9609126.875,1349461.5674678164,Październik
+Italy,10,Foreign country,15374016.75,5093252.072945192,Październik
+Italy,10,Total,24983143.625,6121773.479400531,Październik
+Italy,11,Domestic country,7731984.875,1972105.7663222714,Listopad
+Italy,11,Foreign country,5711931.5,2319176.9183674995,Listopad
+Italy,11,Total,13443916.375,4253683.526436014,Listopad
+Italy,12,Domestic country,9600373.57142857,2988229.0120638264,Grudzień
+Italy,12,Foreign country,5447083.428571428,2394747.302992312,Grudzień
+Italy,12,Total,15047457.0,5346056.480795914,Grudzień
+Kosovo*,1,Domestic country,23429.5,19642.28673805573,Styczeń
+Kosovo*,1,Foreign country,33551.833333333336,30974.785432132805,Styczeń
+Kosovo*,1,Total,56981.333333333336,50433.54270588838,Styczeń
+Kosovo*,2,Domestic country,23474.166666666668,20769.94296974998,Luty
+Kosovo*,2,Foreign country,25179.0,15749.859669216105,Luty
+Kosovo*,2,Total,48653.166666666664,36272.70260356494,Luty
+Kosovo*,3,Domestic country,18051.0,14272.396168828835,Marzec
+Kosovo*,3,Foreign country,32215.666666666668,23433.989636138926,Marzec
+Kosovo*,3,Total,50266.666666666664,37140.43839087884,Marzec
+Kosovo*,4,Domestic country,21791.666666666668,19076.4495194118,Kwiecień
+Kosovo*,4,Foreign country,31240.166666666668,15985.96165911412,Kwiecień
+Kosovo*,4,Total,53031.833333333336,34762.09192448962,Kwiecień
+Kosovo*,5,Domestic country,23665.0,23668.334297115205,Maj
+Kosovo*,5,Foreign country,31996.0,17243.816932454367,Maj
+Kosovo*,5,Total,55661.0,40615.74189399967,Maj
+Kosovo*,6,Domestic country,24820.166666666668,23810.452069766896,Czerwiec
+Kosovo*,6,Foreign country,38837.833333333336,24271.7075577032,Czerwiec
+Kosovo*,6,Total,63658.0,47274.39717225382,Czerwiec
+Kosovo*,7,Domestic country,30207.833333333332,26745.9256890964,Lipiec
+Kosovo*,7,Foreign country,44977.166666666664,34869.634580343205,Lipiec
+Kosovo*,7,Total,75185.0,45415.68686698463,Lipiec
+Kosovo*,8,Domestic country,36003.166666666664,30236.254162291116,Sierpień
+Kosovo*,8,Foreign country,58126.166666666664,32436.905274188328,Sierpień
+Kosovo*,8,Total,94129.33333333333,61644.51620271399,Sierpień
+Kosovo*,9,Domestic country,38547.333333333336,42100.48131633018,Wrzesień
+Kosovo*,9,Foreign country,45297.666666666664,30631.129209787006,Wrzesień
+Kosovo*,9,Total,83845.0,72544.27350246193,Wrzesień
+Kosovo*,10,Domestic country,34940.0,35865.6847697071,Październik
+Kosovo*,10,Foreign country,45199.666666666664,27308.096569820947,Październik
+Kosovo*,10,Total,80139.66666666667,62585.25548295435,Październik
+Kosovo*,11,Domestic country,28958.833333333332,28777.54057883798,Listopad
+Kosovo*,11,Foreign country,38278.166666666664,23296.79917427857,Listopad
+Kosovo*,11,Total,67237.0,51866.192538107134,Listopad
+Kosovo*,12,Domestic country,25478.2,22288.13461687631,Grudzień
+Kosovo*,12,Foreign country,36355.0,27955.042130177517,Grudzień
+Kosovo*,12,Total,61833.2,50122.53217565928,Grudzień
+Latvia,1,Domestic country,88109.375,12531.06684476055,Styczeń
+Latvia,1,Foreign country,143348.5,76974.70733577733,Styczeń
+Latvia,1,Total,231457.875,85139.28498548298,Styczeń
+Latvia,2,Domestic country,90479.875,11873.204952298502,Luty
+Latvia,2,Foreign country,134020.375,62506.750067349865,Luty
+Latvia,2,Total,224500.25,70030.20402603845,Luty
+Latvia,3,Domestic country,99081.875,15934.036690928546,Marzec
+Latvia,3,Foreign country,143083.125,72720.32375662155,Marzec
+Latvia,3,Total,242165.0,81696.10601666223,Marzec
+Latvia,4,Domestic country,98496.875,30066.121087826697,Kwiecień
+Latvia,4,Foreign country,171492.625,104863.7662724322,Kwiecień
+Latvia,4,Total,269989.5,126567.55425576381,Kwiecień
+Latvia,5,Domestic country,116464.75,29938.37351126477,Maj
+Latvia,5,Foreign country,211965.5,126275.87476406002,Maj
+Latvia,5,Total,328430.25,148744.04086766925,Maj
+Latvia,6,Domestic country,181113.25,23433.271655916942,Czerwiec
+Latvia,6,Foreign country,268965.625,137673.70562304967,Czerwiec
+Latvia,6,Total,450078.875,148305.21151852206,Czerwiec
+Latvia,7,Domestic country,266035.0,26028.709308871123,Lipiec
+Latvia,7,Foreign country,399447.25,126716.8218235899,Lipiec
+Latvia,7,Total,665482.25,117270.59856192187,Lipiec
+Latvia,8,Domestic country,241308.0,16640.416744437964,Sierpień
+Latvia,8,Foreign country,386059.875,111498.50825835869,Sierpień
+Latvia,8,Total,627367.875,102270.27716153128,Sierpień
+Latvia,9,Domestic country,132777.875,6877.516961343783,Wrzesień
+Latvia,9,Foreign country,232941.25,92881.57697804538,Wrzesień
+Latvia,9,Total,365719.125,89705.86574456625,Wrzesień
+Latvia,10,Domestic country,122502.375,11097.952513060363,Październik
+Latvia,10,Foreign country,195996.0,84648.99643654547,Październik
+Latvia,10,Total,318498.375,83882.67015802064,Październik
+Latvia,11,Domestic country,101644.125,15030.30937270706,Listopad
+Latvia,11,Foreign country,155195.0,76994.89842283615,Listopad
+Latvia,11,Total,256839.125,89909.79224825848,Listopad
+Latvia,12,Domestic country,102419.42857142857,16415.23960488285,Grudzień
+Latvia,12,Foreign country,164704.14285714287,87285.56881567647,Grudzień
+Latvia,12,Total,267123.5714285714,98907.32207451772,Grudzień
+Liechtenstein,1,Domestic country,509.375,229.77811502155106,Styczeń
+Liechtenstein,1,Foreign country,12629.375,2946.7183654024348,Styczeń
+Liechtenstein,1,Total,13138.75,2792.7992997298297,Styczeń
+Liechtenstein,2,Domestic country,423.25,163.08258206022055,Luty
+Liechtenstein,2,Foreign country,16582.875,2283.948175387774,Luty
+Liechtenstein,2,Total,17006.125,2230.0763239661296,Luty
+Liechtenstein,3,Domestic country,345.625,160.0758190894017,Marzec
+Liechtenstein,3,Foreign country,13192.625,3362.3965066388496,Marzec
+Liechtenstein,3,Total,13538.25,3362.3248228399516,Marzec
+Liechtenstein,4,Domestic country,174.625,98.69134786219684,Kwiecień
+Liechtenstein,4,Foreign country,8690.625,3743.852329867879,Kwiecień
+Liechtenstein,4,Total,8865.25,3731.232800869669,Kwiecień
+Liechtenstein,5,Domestic country,205.5,139.43457247038842,Maj
+Liechtenstein,5,Foreign country,11279.875,4523.604328961586,Maj
+Liechtenstein,5,Total,11485.375,4585.66966405749,Maj
+Liechtenstein,6,Domestic country,441.625,206.27577760990607,Czerwiec
+Liechtenstein,6,Foreign country,15903.0,4772.170635196165,Czerwiec
+Liechtenstein,6,Total,16344.625,4856.460496449182,Czerwiec
+Liechtenstein,7,Domestic country,432.0,161.6018033845627,Lipiec
+Liechtenstein,7,Foreign country,21733.375,4616.199857566828,Lipiec
+Liechtenstein,7,Total,22165.375,4664.756491500923,Lipiec
+Liechtenstein,8,Domestic country,475.5,172.6830291934577,Sierpień
+Liechtenstein,8,Foreign country,23190.875,3934.911051363532,Sierpień
+Liechtenstein,8,Total,23666.375,3982.54290399273,Sierpień
+Liechtenstein,9,Domestic country,328.875,107.47682474442038,Wrzesień
+Liechtenstein,9,Foreign country,17027.125,3020.9846756834577,Wrzesień
+Liechtenstein,9,Total,17356.0,3046.077665270067,Wrzesień
+Liechtenstein,10,Domestic country,283.5,142.88556860049133,Październik
+Liechtenstein,10,Foreign country,15135.375,3768.5395404396572,Październik
+Liechtenstein,10,Total,15418.875,3850.3834850755916,Październik
+Liechtenstein,11,Domestic country,247.625,156.35393685938507,Listopad
+Liechtenstein,11,Foreign country,8388.125,2253.7473833278527,Listopad
+Liechtenstein,11,Total,8635.75,2313.9769569169994,Listopad
+Liechtenstein,12,Domestic country,354.0,128.6364385908337,Grudzień
+Liechtenstein,12,Foreign country,10491.42857142857,2012.2438435026418,Grudzień
+Liechtenstein,12,Total,10845.42857142857,1942.6902186695354,Grudzień
+Lithuania,1,Domestic country,229403.25,76414.5949835501,Styczeń
+Lithuania,1,Foreign country,163548.25,66417.55538098127,Styczeń
+Lithuania,1,Total,392951.5,126205.55430611716,Styczeń
+Lithuania,2,Domestic country,248112.75,74330.70194696517,Luty
+Lithuania,2,Foreign country,144898.375,51323.03643989426,Luty
+Lithuania,2,Total,393011.125,117857.89832849859,Luty
+Lithuania,3,Domestic country,253881.25,80832.41348219872,Marzec
+Lithuania,3,Foreign country,174028.0,73268.37478358975,Marzec
+Lithuania,3,Total,427909.25,148318.22910480597,Marzec
+Lithuania,4,Domestic country,268816.375,107253.2538806266,Kwiecień
+Lithuania,4,Foreign country,188416.625,103015.2102832219,Kwiecień
+Lithuania,4,Total,457233.0,201194.42481767305,Kwiecień
+Lithuania,5,Domestic country,336424.5,104899.7590273686,Maj
+Lithuania,5,Foreign country,251799.875,140503.25198721254,Maj
+Lithuania,5,Total,588224.375,225750.05341555292,Maj
+Lithuania,6,Domestic country,523668.75,87444.77904655028,Czerwiec
+Lithuania,6,Foreign country,279740.625,138692.6074556221,Czerwiec
+Lithuania,6,Total,803409.375,172936.2592393406,Czerwiec
+Lithuania,7,Domestic country,763262.375,103697.02535330992,Lipiec
+Lithuania,7,Foreign country,359803.25,136761.35687367455,Lipiec
+Lithuania,7,Total,1123065.625,118686.50747956328,Lipiec
+Lithuania,8,Domestic country,761305.125,98990.7934744258,Sierpień
+Lithuania,8,Foreign country,372233.375,139515.17663162516,Sierpień
+Lithuania,8,Total,1133538.5,112313.28301165963,Sierpień
+Lithuania,9,Domestic country,412661.625,42381.10904615574,Wrzesień
+Lithuania,9,Foreign country,271301.75,104957.07146087327,Wrzesień
+Lithuania,9,Total,683963.375,94986.9677390949,Wrzesień
+Lithuania,10,Domestic country,339679.0,35960.64509194143,Październik
+Lithuania,10,Foreign country,224385.0,86173.64166445726,Październik
+Lithuania,10,Total,564064.0,86126.77493754687,Październik
+Lithuania,11,Domestic country,292445.125,61663.727125289326,Listopad
+Lithuania,11,Foreign country,189141.875,74239.26202573003,Listopad
+Lithuania,11,Total,481587.0,120767.94624402619,Listopad
+Lithuania,12,Domestic country,288076.5714285714,87879.54781756132,Grudzień
+Lithuania,12,Foreign country,176766.2857142857,79505.57900280601,Grudzień
+Lithuania,12,Total,464842.85714285716,152611.81579247458,Grudzień
+Luxembourg,1,Domestic country,21805.375,2671.6362529089065,Styczeń
+Luxembourg,1,Foreign country,100835.625,30631.184459806875,Styczeń
+Luxembourg,1,Total,122641.0,29854.498565064336,Styczeń
+Luxembourg,2,Domestic country,23167.5,3617.847031434184,Luty
+Luxembourg,2,Foreign country,102086.5,28551.23476439204,Luty
+Luxembourg,2,Total,125254.0,27516.72020011521,Luty
+Luxembourg,3,Domestic country,24972.375,7963.910901013755,Marzec
+Luxembourg,3,Foreign country,121367.875,43985.14653002599,Marzec
+Luxembourg,3,Total,146340.25,49552.36921754023,Marzec
+Luxembourg,4,Domestic country,28838.75,11514.240174050317,Kwiecień
+Luxembourg,4,Foreign country,177323.25,91494.11663794094,Kwiecień
+Luxembourg,4,Total,206162.0,100439.08719076595,Kwiecień
+Luxembourg,5,Domestic country,38075.25,14469.469797276117,Maj
+Luxembourg,5,Foreign country,251308.5,102417.2996547528,Maj
+Luxembourg,5,Total,289383.75,115204.27200505321,Maj
+Luxembourg,6,Domestic country,47808.125,13226.256488380548,Czerwiec
+Luxembourg,6,Foreign country,274649.125,86519.42076359421,Czerwiec
+Luxembourg,6,Total,322457.25,96451.32636094598,Czerwiec
+Luxembourg,7,Domestic country,49967.5,10640.534062858742,Lipiec
+Luxembourg,7,Foreign country,398749.0,92813.12510477321,Lipiec
+Luxembourg,7,Total,448716.5,96444.93557021466,Lipiec
+Luxembourg,8,Domestic country,41981.5,7056.687081869832,Sierpień
+Luxembourg,8,Foreign country,432675.5,89835.1527775816,Sierpień
+Luxembourg,8,Total,474657.0,88988.29217695678,Sierpień
+Luxembourg,9,Domestic country,33608.75,7297.714236076155,Wrzesień
+Luxembourg,9,Foreign country,211006.75,47935.494736602624,Wrzesień
+Luxembourg,9,Total,244615.5,49278.30744426425,Wrzesień
+Luxembourg,10,Domestic country,32447.25,4033.949845640481,Październik
+Luxembourg,10,Foreign country,179668.0,38895.965560159864,Październik
+Luxembourg,10,Total,212115.25,38047.65534262826,Październik
+Luxembourg,11,Domestic country,29910.0,4892.515712800522,Listopad
+Luxembourg,11,Foreign country,133815.25,29404.329854874875,Listopad
+Luxembourg,11,Total,163725.25,27383.746017091446,Listopad
+Luxembourg,12,Domestic country,28651.571428571428,3930.632046594324,Grudzień
+Luxembourg,12,Foreign country,114098.57142857143,29779.34293464259,Grudzień
+Luxembourg,12,Total,142750.14285714287,27736.241252367334,Grudzień
+Malta,1,Domestic country,36531.5,7112.6560038126,Styczeń
+Malta,1,Foreign country,368622.375,153940.35136185284,Styczeń
+Malta,1,Total,405153.875,152593.97669580305,Styczeń
+Malta,2,Domestic country,53360.875,10810.905399344283,Luty
+Malta,2,Foreign country,432577.125,171768.5970363596,Luty
+Malta,2,Total,485938.0,169347.26592082065,Luty
+Malta,3,Domestic country,42701.375,16273.307109123734,Marzec
+Malta,3,Foreign country,504225.0,250538.2455793925,Marzec
+Malta,3,Total,546926.375,263339.740925204,Marzec
+Malta,4,Domestic country,34644.5,19699.70947574028,Kwiecień
+Malta,4,Foreign country,609088.25,364716.45429987315,Kwiecień
+Malta,4,Total,643732.75,379037.01199063094,Kwiecień
+Malta,5,Domestic country,32312.375,17032.449601003205,Maj
+Malta,5,Foreign country,660503.5,380515.44276115036,Maj
+Malta,5,Total,692815.875,390157.3909724262,Maj
+Malta,6,Domestic country,45439.375,16364.161860929948,Czerwiec
+Malta,6,Foreign country,716742.0,356842.5700897886,Czerwiec
+Malta,6,Total,762181.375,357035.90314938413,Czerwiec
+Malta,7,Domestic country,58594.0,19493.736701090136,Lipiec
+Malta,7,Foreign country,898431.75,337471.9843943663,Lipiec
+Malta,7,Total,957025.75,324466.8815081793,Lipiec
+Malta,8,Domestic country,62182.875,22219.444402450106,Sierpień
+Malta,8,Foreign country,982306.875,281945.6476128675,Sierpień
+Malta,8,Total,1044489.75,265146.54558119905,Sierpień
+Malta,9,Domestic country,56479.75,20378.392897169993,Wrzesień
+Malta,9,Foreign country,795163.0,264161.18153992924,Wrzesień
+Malta,9,Total,851642.75,247919.22486957032,Wrzesień
+Malta,10,Domestic country,41630.5,12592.148903185667,Październik
+Malta,10,Foreign country,799111.625,273081.3991666941,Październik
+Malta,10,Total,840742.125,269952.0150166573,Październik
+Malta,11,Domestic country,48961.875,10995.504294775596,Listopad
+Malta,11,Foreign country,559078.625,221286.0129347392,Listopad
+Malta,11,Total,608040.5,228049.75606025732,Listopad
+Malta,12,Domestic country,57903.71428571428,8362.707689783369,Grudzień
+Malta,12,Foreign country,397745.14285714284,172074.56941825015,Grudzień
+Malta,12,Total,455648.85714285716,169937.92965808485,Grudzień
+Montenegro,1,Domestic country,19018.75,3422.886115128994,Styczeń
+Montenegro,1,Foreign country,39285.75,11586.373582174636,Styczeń
+Montenegro,1,Total,58304.5,14156.179448263172,Styczeń
+Montenegro,2,Domestic country,19086.5,4660.796222596675,Luty
+Montenegro,2,Foreign country,51264.625,17385.41220134611,Luty
+Montenegro,2,Total,70351.125,21324.118815741418,Luty
+Montenegro,3,Domestic country,21069.625,7385.398353459732,Marzec
+Montenegro,3,Foreign country,68336.625,38554.32485629855,Marzec
+Montenegro,3,Total,89406.25,44905.83871916244,Marzec
+Montenegro,4,Domestic country,25648.0,14277.550049941041,Kwiecień
+Montenegro,4,Foreign country,151564.75,97892.3551702875,Kwiecień
+Montenegro,4,Total,177212.75,111144.05672016063,Kwiecień
+Montenegro,5,Domestic country,42031.125,19409.620570645595,Maj
+Montenegro,5,Foreign country,272793.5,152000.06819265388,Maj
+Montenegro,5,Total,314824.625,171173.9853164756,Maj
+Montenegro,6,Domestic country,57147.625,14564.107759807526,Czerwiec
+Montenegro,6,Foreign country,464450.375,220717.967998554,Czerwiec
+Montenegro,6,Total,521598.0,233042.41794881155,Czerwiec
+Montenegro,7,Domestic country,80732.125,9846.69399831378,Lipiec
+Montenegro,7,Foreign country,747927.375,289348.4059631411,Lipiec
+Montenegro,7,Total,828659.5,289298.07802926825,Lipiec
+Montenegro,8,Domestic country,80614.0,9178.869055763742,Sierpień
+Montenegro,8,Foreign country,839018.625,268234.048313322,Sierpień
+Montenegro,8,Total,919632.625,266797.1304086081,Sierpień
+Montenegro,9,Domestic country,47183.875,7225.616739618643,Wrzesień
+Montenegro,9,Foreign country,489172.5,169514.58377799994,Wrzesień
+Montenegro,9,Total,536356.375,173634.07189006713,Wrzesień
+Montenegro,10,Domestic country,32323.0,6339.923703912262,Październik
+Montenegro,10,Foreign country,203828.5,100232.2611765864,Październik
+Montenegro,10,Total,236151.5,105793.04671318027,Październik
+Montenegro,11,Domestic country,24386.5,5584.823235468476,Listopad
+Montenegro,11,Foreign country,71433.125,31359.637718559276,Listopad
+Montenegro,11,Total,95819.625,36551.767215191816,Listopad
+Montenegro,12,Domestic country,17225.428571428572,5436.363332754194,Grudzień
+Montenegro,12,Foreign country,46558.71428571428,16884.6559407675,Grudzień
+Montenegro,12,Total,63784.142857142855,22154.55450863751,Grudzień
+Netherlands,1,Domestic country,3202926.125,714161.1684223742,Styczeń
+Netherlands,1,Foreign country,1934775.25,972009.4209063953,Styczeń
+Netherlands,1,Total,5137701.375,1624727.9142648503,Styczeń
+Netherlands,2,Domestic country,3423084.125,503661.5921411171,Luty
+Netherlands,2,Foreign country,2014432.375,834853.0814842193,Luty
+Netherlands,2,Total,5437516.5,1210923.5109516326,Luty
+Netherlands,3,Domestic country,3798780.125,913829.9463642702,Marzec
+Netherlands,3,Foreign country,2522853.0,1282916.6412082831,Marzec
+Netherlands,3,Total,6321633.125,2048466.1664893453,Marzec
+Netherlands,4,Domestic country,4896772.625,1676066.9714767141,Kwiecień
+Netherlands,4,Foreign country,4145479.375,2451005.547209491,Kwiecień
+Netherlands,4,Total,9042252.0,3916945.743654833,Kwiecień
+Netherlands,5,Domestic country,7712515.0,2494023.4633375616,Maj
+Netherlands,5,Foreign country,3662507.75,2119307.388394867,Maj
+Netherlands,5,Total,11375022.75,4073340.3292031446,Maj
+Netherlands,6,Domestic country,7859113.25,1137480.030853886,Czerwiec
+Netherlands,6,Foreign country,4205439.75,1753335.8613524393,Czerwiec
+Netherlands,6,Total,12064553.0,2393889.873780807,Czerwiec
+Netherlands,7,Domestic country,10178213.125,1473721.2453246603,Lipiec
+Netherlands,7,Foreign country,6341662.25,1765527.8402588477,Lipiec
+Netherlands,7,Total,16519875.375,1804790.9914481929,Lipiec
+Netherlands,8,Domestic country,13269153.5,1841185.1087331146,Sierpień
+Netherlands,8,Foreign country,6024412.875,1793573.6245462925,Sierpień
+Netherlands,8,Total,19293566.375,1528114.3320985902,Sierpień
+Netherlands,9,Domestic country,7676919.625,858189.9895066421,Wrzesień
+Netherlands,9,Foreign country,4061375.0,1060521.4600493205,Wrzesień
+Netherlands,9,Total,11738294.625,1292058.177164628,Wrzesień
+Netherlands,10,Domestic country,6136003.375,680124.464245214,Październik
+Netherlands,10,Foreign country,4345989.625,1627530.9519087,Październik
+Netherlands,10,Total,10481993.0,1976031.132516171,Październik
+Netherlands,11,Domestic country,3838843.875,605650.5608676242,Listopad
+Netherlands,11,Foreign country,2665200.375,994643.5549986075,Listopad
+Netherlands,11,Total,6504044.25,1526746.0183357047,Listopad
+Netherlands,12,Domestic country,3690474.8571428573,628258.2568059169,Grudzień
+Netherlands,12,Foreign country,1900560.5714285714,963178.4288546708,Grudzień
+Netherlands,12,Total,5591035.428571428,1568449.7085911357,Grudzień
+North Macedonia,1,Domestic country,36874.25,4103.961248424678,Styczeń
+North Macedonia,1,Foreign country,48023.0,12537.077137150316,Styczeń
+North Macedonia,1,Total,84897.25,14929.09252576516,Styczeń
+North Macedonia,2,Domestic country,32159.875,3975.791257724682,Luty
+North Macedonia,2,Foreign country,47369.625,9438.653459312933,Luty
+North Macedonia,2,Total,79529.5,11763.633646600381,Luty
+North Macedonia,3,Domestic country,31869.875,6840.2062090366,Marzec
+North Macedonia,3,Foreign country,53634.875,20471.32754741547,Marzec
+North Macedonia,3,Total,85504.75,26738.87702925675,Marzec
+North Macedonia,4,Domestic country,38466.25,19614.0694091184,Kwiecień
+North Macedonia,4,Foreign country,72765.75,40999.780266832786,Kwiecień
+North Macedonia,4,Total,111232.0,59262.35712731746,Kwiecień
+North Macedonia,5,Domestic country,52122.5,23436.601447918412,Maj
+North Macedonia,5,Foreign country,102375.75,52467.311741284626,Maj
+North Macedonia,5,Total,154498.25,74552.56574822128,Maj
+North Macedonia,6,Domestic country,57942.75,20735.64777141047,Czerwiec
+North Macedonia,6,Foreign country,124704.375,63726.49645373467,Czerwiec
+North Macedonia,6,Total,182647.125,81516.56200769002,Czerwiec
+North Macedonia,7,Domestic country,94283.875,15024.982856538827,Lipiec
+North Macedonia,7,Foreign country,165881.125,77326.32537026351,Lipiec
+North Macedonia,7,Total,260165.0,80017.78844553432,Lipiec
+North Macedonia,8,Domestic country,132553.25,42508.72344674006,Sierpień
+North Macedonia,8,Foreign country,184595.875,74501.14793446858,Sierpień
+North Macedonia,8,Total,317149.125,35041.10156225727,Sierpień
+North Macedonia,9,Domestic country,61748.25,9854.570582077275,Wrzesień
+North Macedonia,9,Foreign country,140808.25,60192.94728442622,Wrzesień
+North Macedonia,9,Total,202556.5,52741.650001276445,Wrzesień
+North Macedonia,10,Domestic country,53598.5,5809.115521562396,Październik
+North Macedonia,10,Foreign country,100281.0,38920.09905654697,Październik
+North Macedonia,10,Total,153879.5,43905.35464252299,Październik
+North Macedonia,11,Domestic country,42819.375,6891.995334910535,Listopad
+North Macedonia,11,Foreign country,65771.0,24850.150537054815,Listopad
+North Macedonia,11,Total,108590.375,31411.475664328704,Listopad
+North Macedonia,12,Domestic country,37157.0,2063.9711722793027,Grudzień
+North Macedonia,12,Foreign country,52894.142857142855,21096.5922084474,Grudzień
+North Macedonia,12,Total,90051.14285714286,21461.96345808534,Grudzień
+Norway,1,Domestic country,1164577.25,257902.36304669917,Styczeń
+Norway,1,Foreign country,394419.625,127514.08817397113,Styczeń
+Norway,1,Total,1558996.875,383112.67304109957,Styczeń
+Norway,2,Domestic country,1377829.875,237093.83888569011,Luty
+Norway,2,Foreign country,519213.75,186697.4392782917,Luty
+Norway,2,Total,1897043.625,422167.1481070493,Luty
+Norway,3,Domestic country,1515405.0,445814.2762698386,Marzec
+Norway,3,Foreign country,475733.375,194736.33914892463,Marzec
+Norway,3,Total,1991138.375,626088.6490489843,Marzec
+Norway,4,Domestic country,1389859.625,561547.7647062213,Kwiecień
+Norway,4,Foreign country,369654.875,185263.13151949775,Kwiecień
+Norway,4,Total,1759514.5,738737.4529910572,Kwiecień
+Norway,5,Domestic country,1850954.25,446119.3822681964,Maj
+Norway,5,Foreign country,584678.875,314720.40790855145,Maj
+Norway,5,Total,2435633.125,741771.6249338351,Maj
+Norway,6,Domestic country,2721988.0,290662.97160653747,Czerwiec
+Norway,6,Foreign country,1187618.25,653137.4716537202,Czerwiec
+Norway,6,Total,3909606.25,874519.4568896107,Czerwiec
+Norway,7,Domestic country,4674275.125,816294.2203728538,Lipiec
+Norway,7,Foreign country,1837748.625,823679.7096224335,Lipiec
+Norway,7,Total,6512023.75,197640.664731115,Lipiec
+Norway,8,Domestic country,3050918.375,230841.16493563112,Sierpień
+Norway,8,Foreign country,1671797.0,597977.6013432993,Sierpień
+Norway,8,Total,4722715.375,569710.8496333754,Sierpień
+Norway,9,Domestic country,2075645.625,221206.05315854747,Wrzesień
+Norway,9,Foreign country,690700.875,250744.76779297623,Wrzesień
+Norway,9,Total,2766346.5,439379.8613646932,Wrzesień
+Norway,10,Domestic country,1766974.0,216727.6676845852,Październik
+Norway,10,Foreign country,411026.375,149894.84253677644,Październik
+Norway,10,Total,2178000.375,319434.30720122246,Październik
+Norway,11,Domestic country,1550499.875,336115.2680263286,Listopad
+Norway,11,Foreign country,316410.625,112778.56351014013,Listopad
+Norway,11,Total,1866910.5,429162.70554617664,Listopad
+Norway,12,Domestic country,1101355.4285714286,195581.41526046308,Grudzień
+Norway,12,Foreign country,352745.85714285716,133431.67654824766,Grudzień
+Norway,12,Total,1454101.2857142857,324432.6338680673,Grudzień
+Poland,1,Domestic country,3889004.0,1379711.783699252,Styczeń
+Poland,1,Foreign country,803305.375,323330.9495304584,Styczeń
+Poland,1,Total,4692309.375,1682211.3277213366,Styczeń
+Poland,2,Domestic country,4296435.5,1195717.0448957754,Luty
+Poland,2,Foreign country,865726.0,317985.2633472186,Luty
+Poland,2,Total,5162161.5,1497139.7814229447,Luty
+Poland,3,Domestic country,3641757.5,1214644.130109015,Marzec
+Poland,3,Foreign country,1007740.0,434167.8144687506,Marzec
+Poland,3,Total,4649497.5,1641696.7359211016,Marzec
+Poland,4,Domestic country,3627758.25,1826473.1742080536,Kwiecień
+Poland,4,Foreign country,994669.5,548185.4040708177,Kwiecień
+Poland,4,Total,4622427.75,2361915.200780971,Kwiecień
+Poland,5,Domestic country,4983490.5,2056135.9857557365,Maj
+Poland,5,Foreign country,1132450.25,610870.1157386077,Maj
+Poland,5,Total,6115940.75,2639981.6517292447,Maj
+Poland,6,Domestic country,6779107.25,1513235.1641486292,Czerwiec
+Poland,6,Foreign country,1273671.75,583187.048418491,Czerwiec
+Poland,6,Total,8052779.0,2028540.9610529013,Czerwiec
+Poland,7,Domestic country,10487854.5,918138.3172417041,Lipiec
+Poland,7,Foreign country,1769012.75,556052.5984225774,Lipiec
+Poland,7,Total,12256867.25,1326311.6332761482,Lipiec
+Poland,8,Domestic country,10814988.125,630119.6666147601,Sierpień
+Poland,8,Foreign country,1815693.25,477900.3118758885,Sierpień
+Poland,8,Total,12630681.375,928891.9588964873,Sierpień
+Poland,9,Domestic country,6491132.75,634864.8316031533,Wrzesień
+Poland,9,Foreign country,1489985.75,368132.7409336979,Wrzesień
+Poland,9,Total,7981118.5,876083.8569095017,Wrzesień
+Poland,10,Domestic country,5062498.25,904473.2388233736,Październik
+Poland,10,Foreign country,1389968.375,387836.2091803841,Październik
+Poland,10,Total,6452466.625,1238930.6034111993,Październik
+Poland,11,Domestic country,4116653.875,1244934.3282980763,Listopad
+Poland,11,Foreign country,1038667.375,372328.37912325934,Listopad
+Poland,11,Total,5155321.25,1599905.0544723629,Listopad
+Poland,12,Domestic country,3613949.5714285714,1220915.1173796996,Grudzień
+Poland,12,Foreign country,992864.0,409604.06126648694,Grudzień
+Poland,12,Total,4606813.571428572,1619339.3111395624,Grudzień
+Portugal,1,Domestic country,1009221.25,252143.9039079243,Styczeń
+Portugal,1,Foreign country,1891577.75,736333.8003170553,Styczeń
+Portugal,1,Total,2900799.0,977208.2667644892,Styczeń
+Portugal,2,Domestic country,1173391.25,362333.48394765134,Luty
+Portugal,2,Foreign country,2237536.75,902903.5793262834,Luty
+Portugal,2,Total,3410928.0,1251876.3330562192,Luty
+Portugal,3,Domestic country,1259286.875,453571.8407442474,Marzec
+Portugal,3,Foreign country,2826410.5,1344803.4347721073,Marzec
+Portugal,3,Total,4085697.375,1787600.009138265,Marzec
+Portugal,4,Domestic country,1561331.75,749257.2046787881,Kwiecień
+Portugal,4,Foreign country,3448125.25,2047810.8857456783,Kwiecień
+Portugal,4,Total,5009457.0,2774671.8880736153,Kwiecień
+Portugal,5,Domestic country,1608356.25,598798.8458660388,Maj
+Portugal,5,Foreign country,4081249.125,2283043.9242832577,Maj
+Portugal,5,Total,5689605.375,2820853.586626975,Maj
+Portugal,6,Domestic country,2328235.25,502574.84973391925,Czerwiec
+Portugal,6,Foreign country,4185074.75,2111382.58878623,Czerwiec
+Portugal,6,Total,6513310.0,2537221.054824296,Czerwiec
+Portugal,7,Domestic country,3368493.25,438640.4880428846,Lipiec
+Portugal,7,Foreign country,5029916.875,2209340.257106079,Lipiec
+Portugal,7,Total,8398410.125,2577671.9118184056,Lipiec
+Portugal,8,Domestic country,5006924.75,315955.0936874915,Sierpień
+Portugal,8,Foreign country,5832363.375,1990628.3522763744,Sierpień
+Portugal,8,Total,10839288.125,2112670.8023111033,Sierpień
+Portugal,9,Domestic country,2742127.125,203856.33845952657,Wrzesień
+Portugal,9,Foreign country,4946010.75,1645363.462419062,Wrzesień
+Portugal,9,Total,7688137.875,1713261.0623702758,Wrzesień
+Portugal,10,Domestic country,1841435.25,269005.7101500954,Październik
+Portugal,10,Foreign country,4574425.875,1509238.0637576638,Październik
+Portugal,10,Total,6415861.125,1698762.6910104253,Październik
+Portugal,11,Domestic country,1317433.0,337602.94048143935,Listopad
+Portugal,11,Foreign country,2647055.75,951454.8942417081,Listopad
+Portugal,11,Total,3964488.75,1273437.9937594975,Listopad
+Portugal,12,Domestic country,1310321.7142857143,324953.22318538633,Grudzień
+Portugal,12,Foreign country,1945507.142857143,744324.5839594955,Grudzień
+Portugal,12,Total,3255828.8571428573,1064697.0982647957,Grudzień
+Romania,1,Domestic country,1109254.25,130687.05988817061,Styczeń
+Romania,1,Foreign country,232052.0,92746.34021119878,Styczeń
+Romania,1,Total,1341306.25,203020.20972148838,Styczeń
+Romania,2,Domestic country,1134138.5,134294.8724167404,Luty
+Romania,2,Foreign country,229889.625,84042.27634426022,Luty
+Romania,2,Total,1364028.125,202504.92518062543,Luty
+Romania,3,Domestic country,992764.25,277739.12937130156,Marzec
+Romania,3,Foreign country,260884.125,123723.67318393437,Marzec
+Romania,3,Total,1253648.375,391586.27473391115,Marzec
+Romania,4,Domestic country,1071616.25,449966.37956050195,Kwiecień
+Romania,4,Foreign country,276821.625,160365.93464318456,Kwiecień
+Romania,4,Total,1348437.875,593617.4579177203,Kwiecień
+Romania,5,Domestic country,1314297.375,524739.5085084564,Maj
+Romania,5,Foreign country,353626.0,201817.47673791074,Maj
+Romania,5,Total,1667923.375,697088.4560715862,Maj
+Romania,6,Domestic country,2015703.625,578449.5480775527,Czerwiec
+Romania,6,Foreign country,385643.625,196536.62414270453,Czerwiec
+Romania,6,Total,2401347.25,755005.1263087556,Czerwiec
+Romania,7,Domestic country,3597184.375,529949.0404614222,Lipiec
+Romania,7,Foreign country,451459.875,196014.07755088664,Lipiec
+Romania,7,Total,4048644.25,681916.684060817,Lipiec
+Romania,8,Domestic country,4304935.125,468332.24158754083,Sierpień
+Romania,8,Foreign country,470959.5,197207.58523806476,Sierpień
+Romania,8,Total,4775894.625,585105.5274617285,Sierpień
+Romania,9,Domestic country,2252107.75,208473.6643420801,Wrzesień
+Romania,9,Foreign country,416875.25,164009.76094014297,Wrzesień
+Romania,9,Total,2668983.0,351085.2697219214,Wrzesień
+Romania,10,Domestic country,1637155.25,339801.6410520156,Październik
+Romania,10,Foreign country,359167.625,145604.67272126902,Październik
+Romania,10,Total,1996322.875,476472.3665275991,Październik
+Romania,11,Domestic country,1355022.25,356544.27742658113,Listopad
+Romania,11,Foreign country,279695.875,116524.51626581482,Listopad
+Romania,11,Total,1634718.125,470352.49340420595,Listopad
+Romania,12,Domestic country,1211992.4285714286,301071.73752383183,Grudzień
+Romania,12,Foreign country,243888.14285714287,111457.70755227977,Grudzień
+Romania,12,Total,1455880.5714285714,408649.1669459502,Grudzień
+Serbia,1,Domestic country,373187.25,52117.957348828306,Styczeń
+Serbia,1,Foreign country,258555.125,97703.49656184632,Styczeń
+Serbia,1,Total,631742.375,140719.15973104278,Styczeń
+Serbia,2,Domestic country,421862.5,47698.515062241284,Luty
+Serbia,2,Foreign country,226925.75,86274.8562589356,Luty
+Serbia,2,Total,648788.25,127156.28973910135,Luty
+Serbia,3,Domestic country,370049.0,78668.6311344708,Marzec
+Serbia,3,Foreign country,258412.375,119900.97617967622,Marzec
+Serbia,3,Total,628461.375,196807.79471202535,Marzec
+Serbia,4,Domestic country,393815.25,167079.59535053943,Kwiecień
+Serbia,4,Foreign country,272924.125,155476.66995169356,Kwiecień
+Serbia,4,Total,666739.375,315662.78464296926,Kwiecień
+Serbia,5,Domestic country,520103.5,163294.15691234724,Maj
+Serbia,5,Foreign country,322776.25,176307.75525747178,Maj
+Serbia,5,Total,842879.75,329038.50026478665,Maj
+Serbia,6,Domestic country,578106.875,50790.387086639865,Czerwiec
+Serbia,6,Foreign country,343061.625,153211.86587853482,Czerwiec
+Serbia,6,Total,921168.5,197172.71689127208,Czerwiec
+Serbia,7,Domestic country,728694.75,89082.91303972306,Lipiec
+Serbia,7,Foreign country,435404.0,181156.90623166587,Lipiec
+Serbia,7,Total,1164098.75,233590.5632656973,Lipiec
+Serbia,8,Domestic country,886169.125,142275.06580507805,Sierpień
+Serbia,8,Foreign country,457119.625,181830.80213754252,Sierpień
+Serbia,8,Total,1343288.75,211778.75065990796,Sierpień
+Serbia,9,Domestic country,577196.0,130893.03770636542,Wrzesień
+Serbia,9,Foreign country,366953.375,149091.0539885298,Wrzesień
+Serbia,9,Total,944149.375,221910.1989473203,Wrzesień
+Serbia,10,Domestic country,494849.125,123807.6653967037,Październik
+Serbia,10,Foreign country,360937.25,150176.9412847487,Październik
+Serbia,10,Total,855786.375,256524.91091896343,Październik
+Serbia,11,Domestic country,354806.75,79032.55870254629,Listopad
+Serbia,11,Foreign country,282860.875,124080.03199483504,Listopad
+Serbia,11,Total,637667.625,197673.95833828236,Listopad
+Serbia,12,Domestic country,320214.5714285714,60513.233723038196,Grudzień
+Serbia,12,Foreign country,282485.85714285716,128646.59835304439,Grudzień
+Serbia,12,Total,602700.4285714285,182919.1544889501,Grudzień
+Slovakia,1,Domestic country,520367.375,202312.38307834565,Styczeń
+Slovakia,1,Foreign country,274264.875,136376.66519547722,Styczeń
+Slovakia,1,Total,794632.25,337270.2147175805,Styczeń
+Slovakia,2,Domestic country,634270.625,242509.18723447365,Luty
+Slovakia,2,Foreign country,320099.125,143267.4882473216,Luty
+Slovakia,2,Total,954369.75,383364.2024966971,Luty
+Slovakia,3,Domestic country,582712.25,225625.20439420894,Marzec
+Slovakia,3,Foreign country,260010.875,126278.67979358477,Marzec
+Slovakia,3,Total,842723.125,350326.4538653044,Marzec
+Slovakia,4,Domestic country,499793.625,254685.0289508522,Kwiecień
+Slovakia,4,Foreign country,245372.25,155130.49620584416,Kwiecień
+Slovakia,4,Total,745165.875,406572.47588149726,Kwiecień
+Slovakia,5,Domestic country,636447.25,262047.447987001,Maj
+Slovakia,5,Foreign country,313658.25,194732.81549691912,Maj
+Slovakia,5,Total,950105.5,452401.21665366273,Maj
+Slovakia,6,Domestic country,805454.75,152453.59109367395,Czerwiec
+Slovakia,6,Foreign country,370647.0,183574.10119855453,Czerwiec
+Slovakia,6,Total,1176101.75,329140.9836918564,Czerwiec
+Slovakia,7,Domestic country,1313472.75,119420.84644022581,Lipiec
+Slovakia,7,Foreign country,609497.875,191701.45738803456,Lipiec
+Slovakia,7,Total,1922970.625,179784.75170518894,Lipiec
+Slovakia,8,Domestic country,1398591.0,145436.12857097885,Sierpień
+Slovakia,8,Foreign country,628617.5,178570.29686132813,Sierpień
+Slovakia,8,Total,2027208.5,161340.9492118211,Sierpień
+Slovakia,9,Domestic country,834382.125,46306.879508765065,Wrzesień
+Slovakia,9,Foreign country,414993.375,120720.55439962812,Wrzesień
+Slovakia,9,Total,1249375.5,126924.01213662111,Wrzesień
+Slovakia,10,Domestic country,727642.375,172806.79829875866,Październik
+Slovakia,10,Foreign country,320770.0,134284.36073390782,Październik
+Slovakia,10,Total,1048412.375,304236.0805905917,Październik
+Slovakia,11,Domestic country,584745.875,217790.59714022648,Listopad
+Slovakia,11,Foreign country,232730.75,112598.31273253736,Listopad
+Slovakia,11,Total,817476.625,328196.649099259,Listopad
+Slovakia,12,Domestic country,439557.4285714286,186993.52733526824,Grudzień
+Slovakia,12,Foreign country,230156.57142857142,134803.6193379801,Grudzień
+Slovakia,12,Total,669714.0,320555.91380964,Grudzień
+Slovenia,1,Domestic country,247930.75,86343.93635215917,Styczeń
+Slovenia,1,Foreign country,400908.5,166238.66945277376,Styczeń
+Slovenia,1,Total,648839.25,247251.29743917854,Styczeń
+Slovenia,2,Domestic country,347212.625,122526.04292725166,Luty
+Slovenia,2,Foreign country,359783.875,139237.3956156868,Luty
+Slovenia,2,Total,706996.5,254653.32152780346,Luty
+Slovenia,3,Domestic country,269953.875,119496.91728174115,Marzec
+Slovenia,3,Foreign country,364532.875,181359.99694170826,Marzec
+Slovenia,3,Total,634486.75,289399.8818568966,Marzec
+Slovenia,4,Domestic country,238723.75,132853.77105755894,Kwiecień
+Slovenia,4,Foreign country,508150.625,306905.6919282895,Kwiecień
+Slovenia,4,Total,746874.375,426633.01831464923,Kwiecień
+Slovenia,5,Domestic country,281691.375,127157.22811423829,Maj
+Slovenia,5,Foreign country,645498.125,383884.0723828847,Maj
+Slovenia,5,Total,927189.5,481454.3374411089,Maj
+Slovenia,6,Domestic country,513571.75,175485.32074445917,Czerwiec
+Slovenia,6,Foreign country,928080.625,424499.49081575975,Czerwiec
+Slovenia,6,Total,1441652.375,435738.96517556,Czerwiec
+Slovenia,7,Domestic country,778549.5,335663.76094538416,Lipiec
+Slovenia,7,Foreign country,1731001.5,590215.1493410808,Lipiec
+Slovenia,7,Total,2509551.0,299571.63166380464,Lipiec
+Slovenia,8,Domestic country,879105.125,430847.194793314,Sierpień
+Slovenia,8,Foreign country,2004061.75,578071.3751713537,Sierpień
+Slovenia,8,Total,2883166.875,235405.8546106747,Sierpień
+Slovenia,9,Domestic country,508060.625,277868.6984592016,Wrzesień
+Slovenia,9,Foreign country,990827.75,292856.40023677616,Wrzesień
+Slovenia,9,Total,1498888.375,107084.78495090768,Wrzesień
+Slovenia,10,Domestic country,400319.25,153056.3510585469,Październik
+Slovenia,10,Foreign country,595719.0,220590.05318204436,Październik
+Slovenia,10,Total,996038.25,197649.39925010793,Październik
+Slovenia,11,Domestic country,277165.125,120432.65196358562,Listopad
+Slovenia,11,Foreign country,345285.625,149367.6872868115,Listopad
+Slovenia,11,Total,622450.75,221897.21458481628,Listopad
+Slovenia,12,Domestic country,295888.85714285716,146546.9882897957,Grudzień
+Slovenia,12,Foreign country,388518.4285714286,192493.70219296103,Grudzień
+Slovenia,12,Total,684407.2857142857,274604.95468625124,Grudzień
+Spain,1,Domestic country,6224443.875,1640439.8660294428,Styczeń
+Spain,1,Foreign country,12281785.25,4703463.845768191,Styczeń
+Spain,1,Total,18506229.125,6298145.261156526,Styczeń
+Spain,2,Domestic country,7305719.875,2046799.5195613103,Luty
+Spain,2,Foreign country,12839898.75,4880045.2040071385,Luty
+Spain,2,Total,20145618.625,6870929.9505190905,Luty
+Spain,3,Domestic country,9004880.0,3501482.420177896,Marzec
+Spain,3,Foreign country,14297025.875,6408344.985405903,Marzec
+Spain,3,Total,23301905.875,9793067.248409508,Marzec
+Spain,4,Domestic country,11205757.375,5734608.918726366,Kwiecień
+Spain,4,Foreign country,16620469.375,9723106.051280102,Kwiecień
+Spain,4,Total,27826226.75,15252277.35941748,Kwiecień
+Spain,5,Domestic country,10957964.875,4846448.825349175,Maj
+Spain,5,Foreign country,22032878.25,12573024.742974184,Maj
+Spain,5,Total,32990843.125,17154182.079461843,Maj
+Spain,6,Domestic country,15404768.125,5170059.825076673,Czerwiec
+Spain,6,Foreign country,25103434.0,13303242.532397516,Czerwiec
+Spain,6,Total,40508202.125,17797415.350375626,Czerwiec
+Spain,7,Domestic country,23968443.25,3832385.6203953163,Lipiec
+Spain,7,Foreign country,32043034.75,13110414.100229215,Lipiec
+Spain,7,Total,56011478.0,15804383.794583531,Lipiec
+Spain,8,Domestic country,31095310.875,3297805.2369015464,Sierpień
+Spain,8,Foreign country,34219034.625,12856256.285179056,Sierpień
+Spain,8,Total,65314345.5,14670373.06893031,Sierpień
+Spain,9,Domestic country,16243848.625,2427374.1262620706,Wrzesień
+Spain,9,Foreign country,28021254.0,11554914.466222117,Wrzesień
+Spain,9,Total,44265102.625,13511008.691808268,Wrzesień
+Spain,10,Domestic country,11607841.75,2542248.3692059303,Październik
+Spain,10,Foreign country,23945665.875,9485087.843153732,Październik
+Spain,10,Total,35553507.625,11709649.084564,Październik
+Spain,11,Domestic country,8008884.25,2300194.405415753,Listopad
+Spain,11,Foreign country,13542825.625,4920983.281131234,Listopad
+Spain,11,Total,21551709.875,7200049.924270475,Listopad
+Spain,12,Domestic country,8400017.42857143,2439613.6314929635,Grudzień
+Spain,12,Foreign country,11710893.57142857,4490877.403213611,Grudzień
+Spain,12,Total,20110911.0,6891079.01020977,Grudzień
+Sweden,1,Domestic country,2266895.75,374200.7539901352,Styczeń
+Sweden,1,Foreign country,572541.875,185730.1423267005,Styczeń
+Sweden,1,Total,2839437.625,557430.6756008673,Styczeń
+Sweden,2,Domestic country,2530693.25,338576.4181053834,Luty
+Sweden,2,Foreign country,688088.0,215016.31481620844,Luty
+Sweden,2,Total,3218781.25,546344.9305015886,Luty
+Sweden,3,Domestic country,2768074.875,516394.700484713,Marzec
+Sweden,3,Foreign country,659190.75,259537.9384773475,Marzec
+Sweden,3,Total,3427265.625,759621.4231970963,Marzec
+Sweden,4,Domestic country,2686393.0,760256.2037959872,Kwiecień
+Sweden,4,Foreign country,658694.0,306176.9653606041,Kwiecień
+Sweden,4,Total,3345087.0,1049830.5276110047,Kwiecień
+Sweden,5,Domestic country,3620167.125,806214.281584783,Maj
+Sweden,5,Foreign country,934631.125,442751.78185829637,Maj
+Sweden,5,Total,4554798.25,1205031.588480775,Maj
+Sweden,6,Domestic country,4549319.875,664588.1413381281,Czerwiec
+Sweden,6,Foreign country,1408172.375,664939.2222530971,Czerwiec
+Sweden,6,Total,5957492.25,1239116.67219997,Czerwiec
+Sweden,7,Domestic country,8966669.375,755041.3691695383,Lipiec
+Sweden,7,Foreign country,2972670.75,1290613.9857552573,Lipiec
+Sweden,7,Total,11939340.125,1470355.5543080084,Lipiec
+Sweden,8,Domestic country,5925617.75,495713.13561394997,Sierpień
+Sweden,8,Foreign country,2075708.125,751645.201172057,Sierpień
+Sweden,8,Total,8001325.875,1012118.7375246101,Sierpień
+Sweden,9,Domestic country,3289201.5,328060.32409778354,Wrzesień
+Sweden,9,Foreign country,929404.375,278560.4035772582,Wrzesień
+Sweden,9,Total,4218605.875,560763.5244476784,Wrzesień
+Sweden,10,Domestic country,3013297.375,226006.47717515737,Październik
+Sweden,10,Foreign country,784581.75,192136.44740410766,Październik
+Sweden,10,Total,3797879.125,376730.76930706954,Październik
+Sweden,11,Domestic country,2674843.375,565344.4981301067,Listopad
+Sweden,11,Foreign country,629472.0,176538.52544011868,Listopad
+Sweden,11,Total,3304315.375,715333.4696041994,Listopad
+Sweden,12,Domestic country,2255677.5714285714,424064.2776187186,Grudzień
+Sweden,12,Foreign country,613215.4285714285,207111.00238025113,Grudzień
+Sweden,12,Total,2868893.0,609583.0047786765,Grudzień
+Switzerland,1,Domestic country,2307713.625,333094.67715133715,Styczeń
+Switzerland,1,Foreign country,1547690.5,517522.8055753403,Styczeń
+Switzerland,1,Total,3855404.0,825919.2931567658,Styczeń
+Switzerland,2,Domestic country,3342086.625,186573.76737284483,Luty
+Switzerland,2,Foreign country,1707040.0,566601.2490286772,Luty
+Switzerland,2,Total,5049126.5,693082.7076256586,Luty
+Switzerland,3,Domestic country,2270582.625,470631.7077909943,Marzec
+Switzerland,3,Foreign country,1721911.0,689961.0586179069,Marzec
+Switzerland,3,Total,3992493.375,1066593.4049297776,Marzec
+Switzerland,4,Domestic country,1837234.625,715798.7299517606,Kwiecień
+Switzerland,4,Foreign country,1316143.0,684988.9942717537,Kwiecień
+Switzerland,4,Total,3153377.5,1183708.3090639953,Kwiecień
+Switzerland,5,Domestic country,1987260.75,605175.5249211942,Maj
+Switzerland,5,Foreign country,1508098.375,789004.2063461905,Maj
+Switzerland,5,Total,3495359.125,1155073.6834519552,Maj
+Switzerland,6,Domestic country,2597128.75,353682.75570942706,Czerwiec
+Switzerland,6,Foreign country,2019453.125,958382.2882601161,Czerwiec
+Switzerland,6,Total,4616582.125,1066492.005782568,Czerwiec
+Switzerland,7,Domestic country,4395615.375,620506.4717028541,Lipiec
+Switzerland,7,Foreign country,2878335.0,927740.1783202635,Lipiec
+Switzerland,7,Total,7273950.25,431199.0851791744,Lipiec
+Switzerland,8,Domestic country,3699151.5,451164.0845935577,Sierpień
+Switzerland,8,Foreign country,3300668.0,761722.2378124456,Sierpień
+Switzerland,8,Total,6999819.375,562723.184772797,Sierpień
+Switzerland,9,Domestic country,2915314.75,358907.129130225,Wrzesień
+Switzerland,9,Foreign country,2100992.875,582468.8614093921,Wrzesień
+Switzerland,9,Total,5016307.625,417455.0992464207,Wrzesień
+Switzerland,10,Domestic country,2540147.25,332554.1167654415,Październik
+Switzerland,10,Foreign country,1490943.75,492661.2253180968,Październik
+Switzerland,10,Total,4031091.0,422595.76485809707,Październik
+Switzerland,11,Domestic country,1171645.75,175573.31243244224,Listopad
+Switzerland,11,Foreign country,977138.375,344265.508039502,Listopad
+Switzerland,11,Total,2148784.25,482140.7657407445,Listopad
+Switzerland,12,Domestic country,1795487.4285714286,154691.92103969865,Grudzień
+Switzerland,12,Foreign country,1508457.2857142857,544663.7113445061,Grudzień
+Switzerland,12,Total,3303944.714285714,621646.8293454394,Grudzień
+Türkiye,1,Domestic country,5226964.285714285,819985.5315912012,Styczeń
+Türkiye,1,Foreign country,3162469.5714285714,786899.4445302096,Styczeń
+Türkiye,1,Total,8389433.857142856,1490945.5729412604,Styczeń
+Türkiye,2,Domestic country,4840844.428571428,549570.1526301737,Luty
+Türkiye,2,Foreign country,3017755.8571428573,791483.7076224688,Luty
+Türkiye,2,Total,7858600.285714285,1228976.417198843,Luty
+Türkiye,3,Domestic country,4960709.714285715,1079176.1107884902,Marzec
+Türkiye,3,Foreign country,4235924.428571428,1285127.628156682,Marzec
+Türkiye,3,Total,9196634.142857144,2160674.404812182,Marzec
+Türkiye,4,Domestic country,4887664.428571428,1844965.3740927726,Kwiecień
+Türkiye,4,Foreign country,6132124.857142857,3153334.991705365,Kwiecień
+Türkiye,4,Total,11019789.285714285,4842620.75373565,Kwiecień
+Türkiye,5,Domestic country,4933541.0,2032701.5748233513,Maj
+Türkiye,5,Foreign country,9999395.42857143,5703828.266106308,Maj
+Türkiye,5,Total,14932936.42857143,7412661.941422593,Maj
+Türkiye,6,Domestic country,7028581.428571428,1586613.8740790985,Czerwiec
+Türkiye,6,Foreign country,12958414.285714285,6634527.672707875,Czerwiec
+Türkiye,6,Total,19986995.714285713,7947050.014090381,Czerwiec
+Türkiye,7,Domestic country,9843994.0,1601796.133350933,Lipiec
+Türkiye,7,Foreign country,16252832.285714285,6594838.213293276,Lipiec
+Türkiye,7,Total,26096826.285714287,7566681.484956064,Lipiec
+Türkiye,8,Domestic country,10477276.42857143,1194798.0519316304,Sierpień
+Türkiye,8,Foreign country,17929378.85714286,4931229.517880317,Sierpień
+Türkiye,8,Total,28406655.285714287,5461632.485551908,Sierpień
+Türkiye,9,Domestic country,7623884.142857143,1616885.105993252,Wrzesień
+Türkiye,9,Foreign country,16323949.57142857,4616851.472614855,Wrzesień
+Türkiye,9,Total,23947833.714285713,6038907.518553521,Wrzesień
+Türkiye,10,Domestic country,6523769.285714285,877644.0280525119,Październik
+Türkiye,10,Foreign country,15115345.142857144,3087663.5440456388,Październik
+Türkiye,10,Total,21639114.42857143,3635128.517385727,Październik
+Türkiye,11,Domestic country,5468613.714285715,995710.7421300819,Listopad
+Türkiye,11,Foreign country,5156448.142857143,1355692.9851304127,Listopad
+Türkiye,11,Total,10625061.857142856,2292104.5665244297,Listopad
+Türkiye,12,Domestic country,4781130.666666667,1221673.0347720159,Grudzień
+Türkiye,12,Foreign country,3304372.0,1005725.5221902246,Grudzień
+Türkiye,12,Total,8085502.666666667,2204928.7582083615,Grudzień
